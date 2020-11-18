@@ -2,10 +2,14 @@
 
 // Config vars
 // Kaldi logo brand color: #FD461E
-$kaldi-red: #D64000
+$kaldi-red: #FFC49B
+$powder-blue: #B8DBD9
+$lav: #A2708A
+$lilac: #BDA0BC
+$azure: #E4F1F1
 $kaldi-red-invert: #fff
 
-$primary: $kaldi-red
+$primary: $lav
 $primary-invert: $kaldi-red-invert
 $body-color: #333
 $black: #2b2523
@@ -31,7 +35,6 @@ $black: #2b2523
 // Helper Classes
 .full-width-image-container
   width: 100vw
-  height: 400px
   position: relative
   left: 50%
   right: 50%
@@ -44,7 +47,6 @@ $black: #2b2523
 
 .full-width-image
     width: 100vw
-    height: 400px
     background-size: cover
     background-position: bottom
     display: flex
@@ -61,10 +63,10 @@ $black: #2b2523
     border-radius: .25rem
     text-decoration: none
     font-weight: 700
-    color: #CC3700
+    color: $lilac
     text-align: center
-    -webkit-box-shadow: inset 0 0 0 2px #CC3700
-    box-shadow: inset 0 0 0 2px #f40
+    -webkit-box-shadow: inset 0 0 0 2px $lilac
+    box-shadow: inset 0 0 0 2px $lilac
     -webkit-transition: all .15s ease
     transition: all .15s ease
 
@@ -75,8 +77,8 @@ $black: #2b2523
   color: $primary
 // Override for use of svg's from https://simpleicons.org/
 .icon svg
-  width: 1.5rem
-  height: 1.5rem
+  width: 2.5rem
+  height: 2.5rem
   fill: currentColor
 .navbar-brand .navbar-item.logo
   padding: 0 1rem
@@ -114,12 +116,13 @@ $menu-label-color: $white-ter
 
 // blog roll
 .blog-list-item.is-featured
-  background-color: #d6400033;
+  background-color: $azure;
 .blog-list-item header
-  display: flex;
   margin-bottom: 1em;
+  text-align: -webkit-center;
 .blog-list-item .featured-thumbnail
   flex-basis: 35%;
+  max-width: 400px
   margin: 0 1.5em 0 0;
 
 
