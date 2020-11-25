@@ -4,7 +4,7 @@ title: 5 Life Decisions That Will Have Your Parents Saying “Well As Long as
   You’re Happy”
 date: 2020-11-19T21:47:27.924Z
 description: __________________
-featuredpost: true
+featuredpost: false
 featuredimage: /img/as-long-as-youre-happy.jpg
 tags:
   - Climbing
