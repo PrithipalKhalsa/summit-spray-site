@@ -3,7 +3,7 @@ templateKey: blog-post
 title: "Old Man Clout: Jordan Cannon Climbs Dawn Wall With Ghost of Warren Harding"
 date: 2020-11-19T23:52:00.118Z
 description: _________________
-featuredpost: true
+featuredpost: false
 featuredimage: /img/jordan-warren.jpg
 tags:
   - Climbing
