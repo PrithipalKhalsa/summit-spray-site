@@ -34,6 +34,8 @@ class InstaFormat extends React.Component {
                     <h1 >
                       {post.frontmatter.title}
                     </h1>
+                    <p class="ad">SummitSprayNews.com </p>
+
                     <span>  </span>
 
                   </p>
