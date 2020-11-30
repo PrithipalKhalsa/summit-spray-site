@@ -3,7 +3,7 @@ templateKey: blog-post
 title: "Pro Climber Too Afraid To Ask What Back Clipping Is At This Point "
 date: 2020-11-25T00:26:20.874Z
 description: _____________________
-featuredpost: true
+featuredpost: false
 featuredimage: /img/awk-hon.jpg
 tags:
   - Climbing
