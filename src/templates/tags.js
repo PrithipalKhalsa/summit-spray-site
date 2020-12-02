@@ -8,13 +8,11 @@ class TagRoute extends React.Component {
   render() {
     const { data } = this.props
     const { edges: posts } = data.allMarkdownRemark
-    const tag=this.props.pageContext.tag
     return (
             <Layout>
       <section className="section">
         <div className="container">
           <div className="content">
-      <h2>{tag}</h2>
       <div className="columns is-multiline">
         {posts &&
           posts.map(({ node: post }) => (

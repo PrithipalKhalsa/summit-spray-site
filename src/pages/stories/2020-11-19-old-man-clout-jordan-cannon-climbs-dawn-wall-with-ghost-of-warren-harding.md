@@ -6,6 +6,7 @@ description: _________________
 featuredpost: false
 featuredimage: /img/jordan-warren.jpg
 tags:
+  - Climbing
   - News
 ---
 “It was a close call there, I almost had to climb with someone my own age!” Jordan told us when we interviewed him in the comment section of his instagram post. “Mark Hudon, didn’t want to climb with me, he said something about how I was ‘driving his old man bod into the ground’, but I think he’s got a few more walls left in him.” “I mean like what else is he going to do with those muscular forearms? Hug his friends and family? Lame.”

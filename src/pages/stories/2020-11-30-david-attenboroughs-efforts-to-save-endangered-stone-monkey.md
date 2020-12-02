@@ -7,6 +7,7 @@ featuredpost: true
 featuredimage: /img/david-leo.png
 tags:
   - Climbing
+  - News
 ---
 “It’s incredible really, when you look into their eyes, it feels almost like looking in a mirror, a species that is almost human.” We spoke to near ghostly David Attenborough on his study of a dwindling primate species: the stone monkey.
 
