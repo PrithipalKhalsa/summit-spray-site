@@ -7,8 +7,7 @@ description: __________________
 featuredpost: false
 featuredimage: /img/as-long-as-youre-happy.jpg
 tags:
-  - Climbing
-  - Lifestyle
+  - lifestyle Climbing
 ---
 
 
