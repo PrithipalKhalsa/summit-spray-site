@@ -6,7 +6,7 @@ description: _____________________
 featuredpost: false
 featuredimage: /img/img_1770.jpg
 tags:
-  - lifestyle Climbing
+  - Lifestyle
 ---
 **Tape:**
 
