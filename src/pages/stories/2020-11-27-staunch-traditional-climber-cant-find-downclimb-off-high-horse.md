@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Staunch Traditional Climber Can't Find Downclimb Off High Horse
 date: 2020-11-27T01:23:28.484Z
 description: ___________________
-featuredpost: true
+featuredpost: false
 featuredimage: /img/high-horse.png
 tags:
   - Climbing
