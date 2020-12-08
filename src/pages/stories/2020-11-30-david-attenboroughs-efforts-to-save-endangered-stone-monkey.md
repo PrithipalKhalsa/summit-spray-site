@@ -3,7 +3,7 @@ templateKey: blog-post
 title: David Attenborough Attempts to Save The Endangered Stone Monkey Population
 date: 2020-11-30T17:11:45.695Z
 description: _____________________
-featuredpost: true
+featuredpost: false
 featuredimage: /img/david-leo.png
 tags:
   - Climbing
