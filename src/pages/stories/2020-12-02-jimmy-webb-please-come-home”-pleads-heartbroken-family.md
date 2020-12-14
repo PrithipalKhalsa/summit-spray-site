@@ -3,7 +3,7 @@ templateKey: blog-post
 title: '"Jimmy Webb, Please Come Home”, Pleads Heartbroken Family '
 date: 2020-12-02T20:34:20.454Z
 description: __________________
-featuredpost: true
+featuredpost: false
 featuredimage: /img/jimmy-pls-come-home.png
 tags:
   - Climbing
