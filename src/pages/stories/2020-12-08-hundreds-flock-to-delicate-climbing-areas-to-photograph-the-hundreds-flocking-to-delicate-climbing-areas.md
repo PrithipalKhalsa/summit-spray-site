@@ -4,7 +4,7 @@ title: Hundreds Flock to Delicate Climbing Areas to Photograph the Hundreds
   Flocking to Delicate Climbing Areas
 date: 2020-12-08T00:25:10.387Z
 description: __________________
-featuredpost: true
+featuredpost: false
 featuredimage: /img/bish.jpg
 tags:
   - Climbing
