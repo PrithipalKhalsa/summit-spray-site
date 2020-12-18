@@ -3,7 +3,7 @@ templateKey: blog-post
 title: La Sportiva Athlete Accidentally Works Shift as Crossing Gaurd
 date: 2020-12-10T16:53:41.819Z
 description: __________________
-featuredpost: true
+featuredpost: false
 featuredimage: /img/bgoris-crossing-gaurd2.png
 tags:
   - Climbing
