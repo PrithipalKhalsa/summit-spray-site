@@ -4,7 +4,7 @@ title: Climber Avoids Traveling To Small Town During a Pandemic by Moving To
   Small Town During a Pandemic
 date: 2020-12-18T17:03:05.405Z
 description: ____________________
-featuredpost: true
+featuredpost: false
 featuredimage: /img/moving-truck.jpg
 tags:
   - Climbing
