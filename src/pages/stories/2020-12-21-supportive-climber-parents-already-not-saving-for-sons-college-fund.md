@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Supportive Climber Parents Already Not Saving for Son's College Fund
 date: 2020-12-21T14:23:08.538Z
 description: ____________________
-featuredpost: true
+featuredpost: false
 featuredimage: /img/climbing-parents.jpeg
 tags:
   - Climbing
