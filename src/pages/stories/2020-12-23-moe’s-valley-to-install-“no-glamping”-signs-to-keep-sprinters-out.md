@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Moe’s Valley to Install “NO GLAMPING” Signs to Keep Sprinters Out
 date: 2020-12-23T17:57:08.695Z
 description: ____________________
-featuredpost: true
+featuredpost: false
 featuredimage: /img/bigvan3.png
 tags:
   - News
