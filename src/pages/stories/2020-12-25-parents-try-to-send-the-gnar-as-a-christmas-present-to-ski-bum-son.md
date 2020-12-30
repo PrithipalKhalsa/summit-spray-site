@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Parents Try to Send the Gnar as a Christmas Present to Ski Bum Son
 date: 2020-12-25T17:51:24.108Z
 description: ___________________
-featuredpost: true
+featuredpost: false
 featuredimage: /img/send-parents.jpg
 tags:
   - Ski
