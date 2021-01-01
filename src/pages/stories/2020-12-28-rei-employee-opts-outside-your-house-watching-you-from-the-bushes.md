@@ -3,7 +3,7 @@ templateKey: blog-post
 title: REI Employee Opts Outside Your House, Watching You From the Bushes
 date: 2020-12-28T18:03:35.490Z
 description: _____________________
-featuredpost: true
+featuredpost: false
 featuredimage: /img/8b22a9ab-783e-4b73-a911-335d7cdbb10f.jpeg
 tags:
   - Lifestyle
