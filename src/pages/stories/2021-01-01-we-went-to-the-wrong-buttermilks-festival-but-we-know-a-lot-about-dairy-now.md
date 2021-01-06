@@ -3,7 +3,7 @@ templateKey: blog-post
 title: We Went to the Wrong Buttermilks Festival, but We Know a Lot About Dairy Now
 date: 2021-01-01T05:25:14.161Z
 description: ___________________
-featuredpost: true
+featuredpost: false
 featuredimage: /img/cow_field.jpg
 tags:
   - Climbing
