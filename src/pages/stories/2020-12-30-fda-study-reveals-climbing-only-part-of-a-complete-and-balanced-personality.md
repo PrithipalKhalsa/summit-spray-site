@@ -3,7 +3,7 @@ templateKey: blog-post
 title: FDA Study Reveals Climbing Only Part of a Complete and Balanced Personality
 date: 2020-12-30T18:32:33.485Z
 description: _____________________
-featuredpost: true
+featuredpost: false
 featuredimage: /img/screen-shot-2020-12-30-at-10.33.37-am.png
 tags:
   - Climbing
