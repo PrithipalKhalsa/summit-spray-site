@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: The North Face Would to Clarify a Few Things
+title: The North Face Would Like to Clarify a Few Things
 date: 2021-01-07T02:51:29.738Z
 description: ____________________
 featuredpost: true
