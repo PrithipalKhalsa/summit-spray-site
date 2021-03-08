@@ -10,7 +10,7 @@ tags:
 ---
 ![](/img/istock-691617228.jpg)
 
-After thirty or fourty minutes of being absolutely pummeled by the short period break at low tide, Area boyfriend, Toby, reports that his girlfriend is “probably having a good time”, and that he will not be paddling in anytime in the near future.
+After two full hours of being absolutely pummeled by the short period break at low tide, Area boyfriend, Toby, reports that his girlfriend is “probably having a good time”, and that he will not be paddling in anytime in the near future.
 
 
 
