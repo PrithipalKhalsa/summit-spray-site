@@ -16,4 +16,6 @@ In a strange flex of power and a full peacocking affront, the front desk employe
 \
 This is endemic to the industry and from a safety standpoint, all lead cards should be pulled until standardized lead practices can be agreed upon at the annual North American Recreation Center summit (NARCs).
 
-“I thought my technique was perfectly fine.” New gym member and veteran climber Rob Stoic said. “Apparently, however, it’s ‘shocking that I’ve ever been allowed to belay at other gyms’. Even though I passed the belay test, she comes over every 10 minutes to remind me to fix my technique or she’ll take away my belay card. I don’t know what I’m even doing wrong!”
+
+
+“I thought my technique was perfectly fine.” New gym member and veteran climber Rob Stoic said. “Apparently, however, it’s ‘shocking that I’ve ever been allowed to belay at other gyms’. Even though I passed the belay test, she comes over every 10 minutes to remind me to fix my technique or she’ll take away my belay card. I don’t know what I’m even
