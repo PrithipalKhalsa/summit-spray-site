@@ -70,6 +70,11 @@ const BlogPost = ({ data }) => {
                 property="og:image"
             content={`${post.frontmatter.featuredimage.childImageSharp.fluid.src}`}
             />
+            <meta
+
+                property="og:title"
+            content={`${post.frontmatter.title}`}
+            />
           </Helmet>
         }
         tags={post.frontmatter.tags}
@@ -91,7 +96,7 @@ export const pageQuery = graphql`
     markdownRemark(id: { eq: $id }) {
       id
       html
-      frontmatter {        
+      frontmatter {
         date(formatString: "MMMM DD, YYYY")
         title
         description
