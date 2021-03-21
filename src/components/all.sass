@@ -1,4 +1,6 @@
-@import "~bulma/sass/utilities/initial-variables"
+@import "../../node_modules/bulma/bulma.sass"
+
+@import "../../node_modules/bulma/sass/utilities/initial-variables"
 
 // Config vars
 // Kaldi logo brand color: #FD461E
@@ -8,6 +10,7 @@ $lav: #A2708A
 $lilac: #BDA0BC
 $azure: #E4F1F1
 $kaldi-red-invert: #fff
+$white-ter: #ffffff
 
 $primary: $lav
 $primary-invert: $kaldi-red-invert
@@ -25,14 +28,14 @@ $black: #2b2523
   width: 40%
 
 .navbar .container:before
-    content: " "
-    position: absolute
-    left: -22%
-    right: -20%
-    height: 0.5em
-    border-top: 1px solid black
-    z-index: -1
-    width: 143%
+  content: " "
+  position: absolute
+  left: -22%
+  right: -20%
+  height: 0.5em
+  border-top: 1px solid black
+  z-index: -1
+  width: 143%
 
 .navbar-item.active-nav:before
   background: #171617;
@@ -47,19 +50,19 @@ $black: #2b2523
   top: 0
 
 .navbar-item:hover:before
-    height: 6px
+  height: 6px
 
 .navbar-item:before
-    background: #171617;
-    content: "";
-    height: 0;
-    left: 0;
-    pointer-events: none;
-    position: absolute;
-    top: 0;
-    -webkit-transition: height 0.2s ease-in-out;
-    transition: height 0.2s ease-in-out;
-    width: 100%;
+  background: #171617;
+  content: "";
+  height: 0;
+  left: 0;
+  pointer-events: none;
+  position: absolute;
+  top: 0;
+  -webkit-transition: height 0.2s ease-in-out;
+  transition: height 0.2s ease-in-out;
+  width: 100%;
 
 
 .content .taglist
@@ -91,29 +94,29 @@ $black: #2b2523
   align-items: center
 
 .full-width-image
-    width: 100vw
-    background-size: cover
-    background-position: bottom
-    display: flex
-    justify-content: center
-    align-items: center
+  width: 100vw
+  background-size: cover
+  background-position: bottom
+  display: flex
+  justify-content: center
+  align-items: center
 
 .btn
-    display: inline-block
-    padding: 12px 16px 10px
-    font-size: 18px
-    font-size: 1rem
-    line-height: 1.25
-    background-color: #fff
-    border-radius: .25rem
-    text-decoration: none
-    font-weight: 700
-    color: $lilac
-    text-align: center
-    -webkit-box-shadow: inset 0 0 0 2px $lilac
-    box-shadow: inset 0 0 0 2px $lilac
-    -webkit-transition: all .15s ease
-    transition: all .15s ease
+  display: inline-block
+  padding: 12px 16px 10px
+  font-size: 18px
+  font-size: 1rem
+  line-height: 1.25
+  background-color: #fff
+  border-radius: .25rem
+  text-decoration: none
+  font-weight: 700
+  color: $lilac
+  text-align: center
+  -webkit-box-shadow: inset 0 0 0 2px $lilac
+  box-shadow: inset 0 0 0 2px $lilac
+  -webkit-transition: all .15s ease
+  transition: all .15s ease
 
 .margin-top-0
   margin-top: 0 !important
@@ -150,14 +153,14 @@ $menu-label-color: $white-ter
 .social
   padding: 2em
 .social a
-    padding: .5em .5em .3em .5em
-    border-radius: 1em
-    background-color: $white-ter
-    margin: .5em
-    width: 1em
-    height: 1em
-    vertical-align: middle
-    display: inline
+  padding: .5em .5em .3em .5em
+  border-radius: 1em
+  background-color: $white-ter
+  margin: .5em
+  width: 1em
+  height: 1em
+  vertical-align: middle
+  display: inline
 
 // blog roll
 .blog-list-item.is-featured
@@ -175,7 +178,6 @@ p.ad
   font-size: x-small
 
 
-@import "~bulma"
 
 
 // responsiveness

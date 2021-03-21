@@ -7,14 +7,16 @@ import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
 
 export const BlogPostTemplate = ({
-  content,
+   content,
   contentComponent,
   description,
   tags,
   title,
   helmet,
+
 }) => {
   const PostContent = contentComponent || Content
+
 
   return (
     <section className="section">
@@ -49,7 +51,7 @@ BlogPostTemplate.propTypes = {
 
 const BlogPost = ({ data }) => {
   const { markdownRemark: post } = data
-
+  console.log(post.frontmatter.featuredimage.childImageSharp.fluid.src)
   return (
     <Layout>
       <BlogPostTemplate
@@ -62,6 +64,16 @@ const BlogPost = ({ data }) => {
             <meta
               name="description"
               content={`${post.frontmatter.description}`}
+            />
+            <meta
+
+                property="og:image"
+            content={`${post.frontmatter.featuredimage.childImageSharp.fluid.src}`}
+            />
+            <meta
+
+                property="og:title"
+            content={`${post.frontmatter.title}`}
             />
           </Helmet>
         }
@@ -77,7 +89,6 @@ BlogPost.propTypes = {
     markdownRemark: PropTypes.object,
   }),
 }
-
 export default BlogPost
 
 export const pageQuery = graphql`
@@ -90,6 +101,13 @@ export const pageQuery = graphql`
         title
         description
         tags
+         featuredimage {
+                  childImageSharp {
+                    fluid(maxWidth: 400, quality: 100) {
+                      ...GatsbyImageSharpFluid
+                    }
+                  }
+                }
       }
     }
   }
