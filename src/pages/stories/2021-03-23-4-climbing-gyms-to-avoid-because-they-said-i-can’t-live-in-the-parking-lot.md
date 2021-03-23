@@ -4,11 +4,11 @@ title: 4 Climbing Gyms to Avoid Because They Said I Can’t Live in The Parking 
 date: 2021-03-23T03:05:35.743Z
 description: _____________________
 featuredpost: true
-featuredimage: /img/badgym.png
+featuredimage: /img/badgym2.png
 tags:
   - Climbing
 ---
-![](/img/badgym.png)
+![](/img/badgym2.png)
 
 **Movement Climbing + Fitness, Boulder CO**
 
