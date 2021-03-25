@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: LNT Hosts 'Save the Crypto' March in Indian Creek. Proves disastrous.
+title: LNT's 'Save the Crypto' March Proves Disastrous.
 date: 2021-03-25T03:22:31.779Z
 description: ______________________
 featuredpost: true
