@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: LNT's 'Save the Crypto' March Proves Disastrous.
+title: LNT's 'Save the Crypto' March Ends in Disaster
 date: 2021-03-25T03:22:31.779Z
 description: ______________________
 featuredpost: true
