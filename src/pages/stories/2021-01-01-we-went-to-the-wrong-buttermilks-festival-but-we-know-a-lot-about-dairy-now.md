@@ -2,12 +2,14 @@
 templateKey: blog-post
 title: We Went to the Wrong Buttermilks Festival, but We Know a Lot About Dairy Now
 date: 2021-01-01T05:25:14.161Z
-description: ___________________
+description: Somewhere along the 25 hour drive to Wisconsin we should have realized that this probably wasn’t a sick highball festival. We just thought maybe there was another stash of buttermilk granite boulders in the midwest or something.
 featuredpost: false
 featuredimage: /img/cow_field.jpg
 tags:
   - Climbing
 ---
+![](/img/cow_field.jpg)
+
 Somewhere along the 25 hour drive to Wisconsin we should have realized that this probably wasn’t a sick highball festival. We just thought maybe there was another stash of buttermilk granite boulders in the midwest or something.
 
 

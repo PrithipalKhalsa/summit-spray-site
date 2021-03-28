@@ -3,27 +3,23 @@ import PropTypes from 'prop-types'
 import { Link, graphql, StaticQuery } from 'gatsby'
 import PreviewCompatibleImage from './PreviewCompatibleImage'
 
-class BlogRoll extends React.Component {
+class FeatureBanner extends React.Component {
   render() {
     const { data } = this.props
     const { edges: posts } = data.allMarkdownRemark
 
     return (
-      <div className="columns is-multiline ">
+      <div className="feature-banner">
         {posts &&
           posts.map(({ node: post }) => (
-            <div className={`is-parent column is-half ${
-              post.frontmatter.featuredpost ? 'hidden' : ''
-            }`} key={post.id}>
+            <div>{ post.frontmatter.featuredpost ?
+          <div className="" key={post.id}>
 
-              <article
-                className={`blog-list-item  is-child   `}
-              >
+              <article className="featured-article">
                 <header>
                   {post.frontmatter.featuredimage ? (
-                  <Link to={post.fields.slug}>
-                    <div className="featured-thumbnail roll-post">
-
+                      <Link to={post.fields.slug}>
+                    <div className="featured-thumbnail-featured">
                       <PreviewCompatibleImage
                         imageInfo={{
                           image: post.frontmatter.featuredimage,
@@ -31,14 +27,14 @@ class BlogRoll extends React.Component {
                         }}
                       />
                     </div>
-                    </Link>
+                      </Link>
                   ) : null}
                   <p className="post-meta">
-                  <h4 >
+                  <h1 >
                     {post.frontmatter.title}
-                  </h4>
+                  </h1>
                     <span>  </span>
-                    <span className="subtitle is-size-6 is-block">
+                    <span className="subtitle is-size-5 is-block">
                       {post.frontmatter.date}
                     </span>
                   </p>
@@ -47,17 +43,20 @@ class BlogRoll extends React.Component {
                   {post.excerpt}
                   <br />
                   <br />
+
                 </p>
               </article>
 
             </div>
+            :
+            null}</div>
           ))}
       </div>
     )
   }
 }
 
-BlogRoll.propTypes = {
+FeatureBanner.propTypes = {
   data: PropTypes.shape({
     allMarkdownRemark: PropTypes.shape({
       edges: PropTypes.array,
@@ -68,11 +67,10 @@ BlogRoll.propTypes = {
 export default () => (
   <StaticQuery
     query={graphql`
-      query BlogRollQuery{
+      query FeatureBannerQuery {
         allMarkdownRemark(
           sort: { order: DESC, fields: [frontmatter___date] }
           filter: { frontmatter: { templateKey: { eq: "blog-post" } } }
-          limit: 7
         ) {
           edges {
             node {
@@ -99,6 +97,6 @@ export default () => (
         }
       }
     `}
-    render={(data, count) => <BlogRoll data={data} count={count} />}
+    render={(data, count) => <FeatureBanner data={data} count={count} />}
   />
 )

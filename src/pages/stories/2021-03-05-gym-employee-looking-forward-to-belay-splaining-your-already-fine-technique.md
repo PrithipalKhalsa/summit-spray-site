@@ -2,8 +2,8 @@
 templateKey: blog-post
 title: Gym Employee Looking Forward to Belay-splaining Your Already Fine Technique
 date: 2021-03-05T15:25:39.264Z
-description: ___________________
-featuredpost: true
+description: While traveling around, sampling the 9 open climbing gyms across the country, every single gym employee had the same comments, “you need to pay more attention while belaying”.
+featuredpost: false
 featuredimage: /img/screen-shot-2021-03-05-at-7.28.41-am.png
 tags:
   - Climbing

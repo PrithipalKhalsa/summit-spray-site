@@ -5,6 +5,8 @@ import { Link, graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Features from '../components/Features'
 import BlogRoll from '../components/BlogRoll'
+import FeatureBanner from '../components/FeatureBanner'
+import LeftSideBar from '../components/LeftSideBar'
 
 export const IndexPageTemplate = ({
   image,
@@ -16,28 +18,35 @@ export const IndexPageTemplate = ({
   intro,
 }) => (
   <div>
-  
+
     <section className="section section--gradient">
       <div className="container">
         <div className="section">
           <div className="columns">
-            <div className="column is-10 is-offset-1">
+            <div className="column is-18 ">
               <div className="content">
                 <div className="content">
 
                 </div>
+                <div className="columns is-12 is-multiline is-centered">
 
-                <div className="column is-12">
-                  <h3 className="has-text-weight-semibold is-size-2">
-                    Latest stories
-                  </h3>
-                  <BlogRoll />
-                  <div className="column is-12 has-text-centered">
-                    <Link className="btn" to="/stories">
-                      Read more
-                    </Link>
+                  <div className="column is-one-quarter is-hidden-touch">
+                    <LeftSideBar/>
                   </div>
-                </div>
+
+                  <div className="column is-two-thirds  ">
+                    <FeatureBanner/>
+                      <BlogRoll />
+                  </div>
+
+
+
+              </div>
+              <div className="column is-12 has-text-centered">
+                <Link className="btn" to="/stories/2">
+                  Read more
+                </Link>
+              </div>
               </div>
             </div>
           </div>

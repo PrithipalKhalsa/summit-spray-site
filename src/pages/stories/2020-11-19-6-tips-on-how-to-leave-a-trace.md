@@ -2,13 +2,15 @@
 templateKey: blog-post
 title: 6 Tips On How To Leave A Trace
 date: 2020-11-19T21:54:05.064Z
-description: _____________________
+description: Tape: Not only did you say “I got here first”, you also said “I can cure my debilitating finger injury with some sticky string”
 featuredpost: false
 featuredimage: /img/img_1770.jpg
 tags:
   - Lifestyle
   - Climbing
 ---
+![](/img/img_1770.jpg)
+
 **Tape:**
 
 Not only did you say “I got here first”, you also said “I can cure my debilitating finger injury with some sticky string”

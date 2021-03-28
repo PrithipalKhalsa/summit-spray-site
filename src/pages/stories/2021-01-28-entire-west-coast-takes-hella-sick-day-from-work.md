@@ -2,15 +2,15 @@
 templateKey: blog-post
 title: Entire West Coast Takes Hella Sick Day From Work
 date: 2021-01-28T18:11:23.076Z
-description: _______________________
-featuredpost: true
+description: As coronavirus cases take a dip in California a new odd spike of people calling in sick to work has occurred. A Pacific storm has brought a massive outbreak of stoke to western states.
+featuredpost: false
 featuredimage: /img/stoked.jpg
 tags:
   - Ski
 ---
 ![](/img/stoked.jpg)
 
-As coronavirus cases take a dip in California a new odd spike of people calling in sick to work has occurred. A Pacifc storm has brought a massive outbreak of stoke to western states. This new trend is worrisome, as not a single person plagued with the illness has seeked medical attention. Instead, they were all seen packing and heading up to the Tahoe area, in an effort to relieve the swelling stoke.
+As coronavirus cases take a dip in California a new odd spike of people calling in sick to work has occurred. A Pacific storm has brought a massive outbreak of stoke to western states. This new trend is worrisome, as not a single person plagued with the illness has seeked medical attention. Instead, they were all seen packing and heading up to the Tahoe area, in an effort to relieve the swelling stoke.
 
 
 

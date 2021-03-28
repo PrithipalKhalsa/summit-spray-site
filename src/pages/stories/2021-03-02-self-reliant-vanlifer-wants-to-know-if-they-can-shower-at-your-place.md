@@ -1,13 +1,15 @@
 ---
 templateKey: blog-post
-title: "Self-Reliant Vanlifer Wants to Know if They Can Shower at Your Place. "
+title: "Self-Reliant Vanlifer Wants to Know if They Can Shower at Your Place."
 date: 2021-03-02T06:03:11.544Z
-description: _____________________
-featuredpost: true
+description: We caught up with Christina, after van dwelling for the past 7 months.
+featuredpost: false
 featuredimage: /img/shower.jpeg
 tags:
   - Climbing
 ---
+![](/img/shower.jpeg)
+
 We caught up with Christina, after van dwelling for the past 7 months. They insisted that the thrill comes from “an independent lifestyle” and the ability to “travel to any city where my friends have a house I can cook in.” While Christina insists that the lifestyle has helped build autonomy, we also noticed they were shoving their bag full of donuts during the interview.
 
 

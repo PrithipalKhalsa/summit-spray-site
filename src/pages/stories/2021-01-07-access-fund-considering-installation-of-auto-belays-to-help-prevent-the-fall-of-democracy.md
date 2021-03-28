@@ -3,12 +3,14 @@ templateKey: blog-post
 title: Access Fund Considering Installation of Auto Belays to Help Prevent the
   Fall of Democracy
 date: 2021-01-07T17:39:28.989Z
-description: ___________________
-featuredpost: true
+description: Access Fund is set to launch their brand new access initiative come January 20th.
+featuredpost: false
 featuredimage: /img/accessfundbelay.webp
 tags:
   - News
 ---
+![](/img/accessfundbelay.webp)
+
 Access Fund is set to launch their brand new access initiative come January 20th. The initiative is slated to fund the installation of auto belays in the capitol, primarily on the walls outside of the Capitol building, inside the Oval Office, and on the Supreme Court Building to help prevent the fall of American democracy.
 
 

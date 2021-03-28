@@ -2,8 +2,8 @@
 templateKey: blog-post
 title: Local Filmmaker Sells Out Climbing Scene for Tens of Dollars
 date: 2021-02-19T05:20:30.994Z
-description: ___________________
-featuredpost: true
+description: “I honestly thought I was going to make way more money.” Said 42 year old filmmaker who definitely isn’t Cedar Wright.
+featuredpost: false
 featuredimage: /img/not-cedar.jpg
 tags:
   - Climbing

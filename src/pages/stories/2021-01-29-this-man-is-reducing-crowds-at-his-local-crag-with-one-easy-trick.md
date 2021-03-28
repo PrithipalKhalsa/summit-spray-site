@@ -2,12 +2,14 @@
 templateKey: blog-post
 title: "This Man is Reducing Crowds at His Local Crag with One Easy Trick! "
 date: 2021-01-29T19:34:12.909Z
-description: _____________________
-featuredpost: true
+description: “I just miss the days when this was a community that cared about each other and about climbing. Now everyone and their mom wants to be a part of it.
+featuredpost: false
 featuredimage: /img/tireslash.jpg
 tags:
   - Climbing
 ---
+![](/img/tireslash.jpg)
+
 “I just miss the days when this was a community that cared about each other and about climbing. Now everyone and their mom wants to be a part of it. The climbing community has tripled in the last year. I can’t remember that many names!” Reno Local Brad Needle moved to Nevada ‘pre-Tesla’ and has since watched his beloved crags become overrun with climbers.
 
 

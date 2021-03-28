@@ -2,12 +2,14 @@
 templateKey: blog-post
 title: Parents Try to Send the Gnar as a Christmas Present to Ski Bum Son
 date: 2020-12-25T17:51:24.108Z
-description: ___________________
+description: With such a busy Christmas season of binge shopping online deals, a skier can be a hard person to find the perfect gift for. We recently spoke to a cute elderly couple who were looking around for that special something for their ski bum child.
 featuredpost: false
 featuredimage: /img/send-parents.jpg
 tags:
   - Ski
 ---
+![](/img/send-parents.jpg)
+
 With such a busy Christmas season of binge shopping online deals, a skier can be a hard person to find the perfect gift for. We recently spoke to a cute elderly couple who were looking around for that special something for their ski bum child.
 
 

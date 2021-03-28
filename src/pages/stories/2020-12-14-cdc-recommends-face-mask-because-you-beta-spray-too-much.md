@@ -2,12 +2,14 @@
 templateKey: blog-post
 title: CDC Recommends Face Mask Because You Beta Spray Too Much
 date: 2020-12-14T18:38:18.311Z
-description: __________________
+description: The CDC made a few adjustments to their covid-19 guidelines to include “dumb fucks who can’t shut up”.
 featuredpost: false
 featuredimage: /img/beta-spray.jpg
 tags:
   - News
 ---
+![](/img/beta-spray.jpg)
+
 The CDC made a few adjustments to their covid-19 guidelines to include “dumb fucks who can’t shut up”.
 
 

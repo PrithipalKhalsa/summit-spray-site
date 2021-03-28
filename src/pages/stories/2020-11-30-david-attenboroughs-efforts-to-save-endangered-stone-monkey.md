@@ -2,18 +2,20 @@
 templateKey: blog-post
 title: David Attenborough Attempts to Save The Endangered Stone Monkey Population
 date: 2020-11-30T17:11:45.695Z
-description: _____________________
+description: “It’s incredible really, when you look into their eyes, it feels almost like looking in a mirror, a species that is almost human.”
 featuredpost: false
 featuredimage: /img/david-leo.png
 tags:
   - Climbing
   - News
 ---
+![](/img/david-leo.png)
+
 “It’s incredible really, when you look into their eyes, it feels almost like looking in a mirror, a species that is almost human.” We spoke to near ghostly David Attenborough on his study of a dwindling primate species: the stone monkey.
 
 
 
-“Their habitat is shrinking everyday, as more humans move into Yosemite Valley these granite primates are running out of space to dwell. As the wall clog up with weeked ‘go-getters’ and the grazing plains of Camp 4 are taken up by tourists, there is almost nowhere else they can roam free.”
+“Their habitat is shrinking everyday, as more humans move into Yosemite Valley these granite primates are running out of space to dwell. As the wall clog up with weekend ‘go-getters’ and the grazing plains of Camp 4 are taken up by tourists, there is almost nowhere else they can roam free.”
 
 
 

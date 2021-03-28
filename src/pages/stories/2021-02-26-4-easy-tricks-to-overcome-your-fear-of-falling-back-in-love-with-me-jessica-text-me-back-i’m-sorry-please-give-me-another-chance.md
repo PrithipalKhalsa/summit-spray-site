@@ -3,12 +3,13 @@ templateKey: blog-post
 title: 4 Easy Tricks to Overcome Your Fear of Falling Back in Love with Me.
   Jessica Text Me Back, I’m Sorry, Please Give Me Another Chance
 date: 2021-02-26T05:26:38.023Z
-description: _____________________
-featuredpost: true
+description: Falling is a skill. Since we have been so ‘on again, off again’ the last few years, it must feel like second nature to forget my errors. Don’t wait too long to fall again, or you might raise your standards and not settle for me.
+featuredpost: false
 featuredimage: /img/screen-shot-2021-02-25-at-9.29.35-pm.png
 tags:
   - Climbing
 ---
+![](/img/screen-shot-2021-02-25-at-9.29.35-pm.png)
 
 
 1. **Practice often:** Falling is a skill. Since we have been so ‘on again, off again’ the last few years, it must feel like second nature to forget my errors. Don’t wait too long to fall again, or you might raise your standards and not settle for me.

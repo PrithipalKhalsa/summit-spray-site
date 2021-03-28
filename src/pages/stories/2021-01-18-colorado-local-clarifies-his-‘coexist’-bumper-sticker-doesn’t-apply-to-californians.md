@@ -3,8 +3,8 @@ templateKey: blog-post
 title: Colorado Local Clarifies His ‘Coexist’ Bumper Sticker Doesn’t Apply to
   Californians
 date: 2021-01-18T17:27:11.455Z
-description: ____________________
-featuredpost: true
+description: “I believe that we all share this planet together, and we have no choice but to coexist! With the exception, of course, of ‘those people’.” Local Boulder, CO man said through clenched teeth.
+featuredpost: false
 featuredimage: /img/coexist.jpg
 tags:
   - Lifestyle

@@ -3,12 +3,14 @@ templateKey: blog-post
 title: Biden Signs executive order to save Bears Ears, Dogs Ears, and Cats Ears,
   Because He Loves Animals
 date: 2021-01-21T16:29:39.226Z
-description: _______________________
-featuredpost: true
+description: Earlier this month, Joe Biden established a literal ground breaking accent when he climbed out of the grave into the oval office.
+featuredpost: false
 featuredimage: /img/signs.jpg
 tags:
   - News
 ---
+![](/img/signs.jpg)
+
 Earlier this month, Joe Biden established a literal ground breaking accent when he climbed out of the grave into the oval office. During his first day in office he unleashed a slew of executive orders in an effort to jumpstart the administration's agenda. Due to his rare disease of probably a lot of different stuff, he misunderstood what Bears Ears was. Along with saving various ears, he also made executive orders to bring rotary phones back, a ban on outdoor ‘fashion’, and to ‘get off his damn lawn’.
 
 

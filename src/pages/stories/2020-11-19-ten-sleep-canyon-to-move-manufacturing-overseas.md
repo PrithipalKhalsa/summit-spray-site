@@ -2,13 +2,15 @@
 templateKey: blog-post
 title: Ten Sleep Canyon to Move Manufacturing Overseas
 date: 2020-11-19T21:56:37.131Z
-description: _________________________
+description: Most production of holds is done outside of the US already, but it’s still a sad day when American manufacturing, and its jobs, leave for another country.
 featuredpost: false
 featuredimage: /img/tensleep.jpg
 tags:
   - News
   - Climbing
 ---
+![](/img/tensleep.jpg)
+
 Most production of holds is done outside of the US already, but it’s still a sad day when American manufacturing, and its jobs, leave for another country. Following the recent USDA Forest Service ban on manufacturing new routes in Ten Sleep Canyon, developer Aurie Donelson is looking to begin chipping, drilling, and glueing Ten Sleep routes overseas.
 
 

@@ -3,13 +3,14 @@ templateKey: blog-post
 title: 5 Life Decisions That Will Have Your Parents Saying “Well As Long as
   You’re Happy”
 date: 2020-11-19T21:47:27.924Z
-description: __________________
+description: Sick of going to class or don’t want to pay loans? We have a solution for that!
 featuredpost: false
 featuredimage: /img/as-long-as-youre-happy.jpg
 tags:
   - Climbing
   - Lifestyle
 ---
+![](/img/as-long-as-youre-happy.jpg)
 
 
 1. **Ignore your student loan payments or drop out of college.**

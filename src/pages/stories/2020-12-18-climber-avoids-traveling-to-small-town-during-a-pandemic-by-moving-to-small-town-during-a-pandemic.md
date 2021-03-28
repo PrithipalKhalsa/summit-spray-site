@@ -3,12 +3,14 @@ templateKey: blog-post
 title: Climber Avoids Traveling To Small Town During a Pandemic by Moving To
   Small Town During a Pandemic
 date: 2020-12-18T17:03:05.405Z
-description: ____________________
+description: “Honestly, moving to Tahoe this summer was the best thing I could have done. The climbing is excellent and people are so friendly.
 featuredpost: false
 featuredimage: /img/moving-truck.jpg
 tags:
   - Climbing
 ---
+![](/img/moving-truck.jpg)
+
 “Honestly, moving to Tahoe this summer was the best thing I could have done. The climbing is excellent and people are so friendly. I’ve happily adopted the local ethic of shaming climbers from the bay, how dare they come up here and endanger our community.” New local Bridgett Jones said when we visited her two month Airbnb “I’m just so happy to have the chance to tick all of the classics and then move again to be a local somewhere else.”
 
 

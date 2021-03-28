@@ -2,15 +2,16 @@
 templateKey: blog-post
 title: "Pro Climber Too Afraid To Ask What Back Clipping Is At This Point "
 date: 2020-11-25T00:26:20.874Z
-description: _____________________
+description: We spoke with 35 year old professional climber, Alex Honnold, about what keeps him awake at night.
+
 featuredpost: false
 featuredimage: /img/awk-hon.jpg
 tags:
   - Climbing
 ---
+![](/img/awk-hon.jpg)
+
 We spoke with 35 year old professional climber, Alex Honnold, about what keeps him awake at night.
-
-
 
 “Besides the impending sense that whatever I do will fall short of my biggest accomplishment: becoming Kanto League Champion and catching all 151 Pokemon,” Honnold told us from one of the Sprinter vans in his fleet. “My biggest secret is that I’m not sure what ‘back-clipping’ is. No one ever explained it, they just saw me absolutely bone crush any route I touched. People just assumed I already knew. Before I knew it, I was in too deep and it was too late to just ask.”
 

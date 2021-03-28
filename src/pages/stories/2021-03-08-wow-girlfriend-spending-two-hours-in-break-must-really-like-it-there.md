@@ -2,8 +2,9 @@
 templateKey: blog-post
 title: Wow! Girlfriend Spending Two Hours in Break Must Really Like it There
 date: 2021-03-08T15:10:37.435Z
-description: ____________________
-featuredpost: true
+description: After two full hours of being absolutely pummeled by the short period break at low tide, Area boyfriend, Toby, reports that his girlfriend is “probably having a good time”, and that he will not be paddling in anytime in the near future.
+
+featuredpost: false
 featuredimage: /img/istock-691617228.jpg
 tags:
   - Surf

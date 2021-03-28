@@ -1,9 +1,9 @@
 ---
 templateKey: blog-post
-title: "Snowboarder One More Concussion Away From Free Sandwich "
+title: "Snowboarder One More Concussion Away From Free Sandwich"
 date: 2021-01-26T05:25:44.605Z
-description: ___________________
-featuredpost: true
+description: Oh man. Did I eat shit? That must have been pretty bad huh. Can you punch my card?” Nearly fucking dead Tim Robin asked us, after he used his skull to hault his 50 mph top speed.
+featuredpost: false
 featuredimage: /img/sando-uh-oh.jpg
 tags:
   - Ski

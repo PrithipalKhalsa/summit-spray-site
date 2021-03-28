@@ -2,12 +2,14 @@
 templateKey: blog-post
 title: '"Jimmy Webb, Please Come Home”, Pleads Heartbroken Family '
 date: 2020-12-02T20:34:20.454Z
-description: __________________
+description: On Saturday a van pulled up to our office wanting to post a missing persons bulletin. The smell of three people and a dog living in a van ended the life of any small animal in a five mile radius.
 featuredpost: false
 featuredimage: /img/jimmy-pls-come-home.png
 tags:
   - Climbing
 ---
+![](/img/jimmy-pls-come-home.png)
+
 On Saturday a van pulled up to our office wanting to post a missing persons bulletin. The smell of three people and a dog living in a van ended the life of any small animal in a five mile radius.
 
 

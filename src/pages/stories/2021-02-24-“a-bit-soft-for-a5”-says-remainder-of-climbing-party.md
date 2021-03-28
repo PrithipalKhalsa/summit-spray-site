@@ -2,12 +2,14 @@
 templateKey: blog-post
 title: “A bit soft for A5” Says Remainder of Climbing Party
 date: 2021-02-24T04:06:19.383Z
-description: _____________________
-featuredpost: true
+description: I mean we only lost John.” Said the two surviving climbers. Chet and Stacey topped out El Cap via the route Surgeon General (A5) on Monday morning, without their third party member John.
+featuredpost: false
 featuredimage: /img/screen-shot-2021-02-23-at-8.07.25-pm.png
 tags:
   - Climbing
 ---
+![](/img/screen-shot-2021-02-23-at-8.07.25-pm.png)
+
 “I mean we only lost John.” Said the two surviving climbers. Chet and Stacey topped out El Cap via the route *Surgeon General (A5)* on Monday morning, without their third party member John. “An A5 route is supposed to be the most dangerous rating, but I am totally fine. I’m not sure if we can even take this grade, it feels like a stiff A4 at best.” Said Chet who was clearly grief stricken.
 
 

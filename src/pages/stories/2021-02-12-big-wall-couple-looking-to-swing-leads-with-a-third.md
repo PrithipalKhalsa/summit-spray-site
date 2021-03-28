@@ -2,12 +2,14 @@
 templateKey: blog-post
 title: Big Wall Couple Looking To Swing Leads With A Third
 date: 2021-02-12T06:39:16.870Z
-description: ______________________
-featuredpost: true
+description: This Valentine’s day we wanted to mix things up a bit. Every year it's just the two of us and our portaledge definitely sleeps three people.
+featuredpost: false
 featuredimage: /img/261251.jpg
 tags:
   - Climbing
 ---
+![](/img/261251.jpg)
+
 “This Valentine’s day we wanted to mix things up a bit. Every year it's just the two of us and our portaledge definitely sleeps three people. We have heard that it can be more messy with three people and much communication is needed.” Bronwyn Hodgins and Jacob Cook are two ‘sponsored’ rock climbers looking to add a third to the mix for their valentine’s week ascent of El Capitan in Yosemite Valley.
 
 

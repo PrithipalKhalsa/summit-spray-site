@@ -3,8 +3,8 @@ templateKey: blog-post
 title: Perpetual Projector Enters Third Year of Ruining Your Weekend With 4 AM
   Belay Shifts
 date: 2021-03-15T15:01:59.023Z
-description: __________________________
-featuredpost: true
+description: Climber and shameless man Erik Sanderson has recently proven that he really does have the audacity to ask you to wake up at ungodly hours of the morning again just to catch him whipping on the same piece of gear that he’s been whipping on for months now. 
+featuredpost: false
 featuredimage: /img/img_5407.jpeg
 tags:
   - Climbing

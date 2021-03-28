@@ -3,12 +3,13 @@ templateKey: blog-post
 title: Hundreds Flock to Delicate Climbing Areas to Photograph the Hundreds
   Flocking to Delicate Climbing Areas
 date: 2020-12-08T00:25:10.387Z
-description: __________________
+description: Hundreds flock to delicate climbing areas to photograph the hundreds flocking to delicate climbing areas.
 featuredpost: false
 featuredimage: /img/bish.jpg
 tags:
   - Climbing
 ---
+![](/img/bish.jpg)
 Hundreds flock to delicate climbing areas to photograph the hundreds flocking to delicate climbing areas. As more gyms close, more people find themselves with no alternative but to go to the most popular climbing area within their small covid radius of 10ish hours of driving. A renewed sense of justice and social awareness has made people even more conscious of their impact on rock climbing areas. Public shaming of impactful crowds has become a popular, easy rest day activity.
 
 

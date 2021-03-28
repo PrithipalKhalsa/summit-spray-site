@@ -2,12 +2,14 @@
 templateKey: blog-post
 title: Climber Really Running It Out for Someone Without Health Insurance
 date: 2021-02-09T18:31:30.572Z
-description: _______________________
-featuredpost: true
+description: “Watch me!” 29 year old Emily Coffman squealed as she shakily placed her second piece of protection 8 feet from the anchor.
+featuredpost: false
 featuredimage: /img/screen-shot-2021-02-09-at-10.30.22-am.png
 tags:
   - Climbing
 ---
+![](/img/screen-shot-2021-03-05-at-7.28.41-am.png)
+
 “Watch me!” 29 year old Emily Coffman squealed as she shakily placed her second piece of protection 8 feet from the anchor. The aging dirtbag is entering her third year of ‘totally getting health insurance next week’. As Coffman lowered off the chains, we breathed a sigh of relief while the thought of holding her head together in the back of an uber subsided.
 
 

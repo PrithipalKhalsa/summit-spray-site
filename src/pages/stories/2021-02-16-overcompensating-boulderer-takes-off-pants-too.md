@@ -2,12 +2,14 @@
 templateKey: blog-post
 title: Overcompensating Boulderer Takes Off Pants Too
 date: 2021-02-16T05:22:53.031Z
-description: ___________________
-featuredpost: true
+description: Local show off Jeffrey ‘future-DILF’ Bradford was 24 tries into his V6 project in the Anza Borrego desert.
+featuredpost: false
 featuredimage: /img/screen-shot-2021-02-15-at-8.27.43-pm.png
 tags:
   - Climbing
 ---
+![](/img/screen-shot-2021-02-15-at-8.27.43-pm.png)
+
 Local show off Jeffrey ‘future-DILF’ Bradford was 24 tries into his V6 project in the Anza Borrego desert. He had already taken off his beanie, shirt, and fitbit but had one final trick up his sleeve. “I dragged out both my brother and his girlfriend to spot me, so I had to make it at least look like I was trying my hardest to send.” Bradford said as he slowly stripped down to reduce his ounces.
 
 

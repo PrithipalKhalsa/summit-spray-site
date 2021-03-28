@@ -2,12 +2,14 @@
 templateKey: blog-post
 title: Thoughtful Couple Invites No One to Un-Godly Climbing Themed Wedding
 date: 2021-01-06T18:36:46.628Z
-description: ___________________
-featuredpost: true
+description: We understand themed weddings are a crime against humanity and a violation of the Geneva convention. Seriously, how could you do that to your own mother.
+featuredpost: false
 featuredimage: /img/wedshot.jpg
 tags:
   - Climbing
 ---
+![](/img/wedshot.jpg)
+
 We understand themed weddings are a crime against humanity and a violation of the Geneva convention. Seriously, how could you do that to your own mother. That’s why we were ecstatic to be not invited to Linda and Susan’s wedding. Sure, we love them, but we can’t stand hearing vows like “When we started this belaytionship it was chossy...” or “We will send the cruxes of this marriage together”. We would prefer a knife stab.
 
 

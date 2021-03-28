@@ -30,7 +30,20 @@ exports.createPages = ({ actions, graphql }) => {
     }
 
     const posts = result.data.allMarkdownRemark.edges
-
+    const postsPerPage = 6
+    const numPages = Math.ceil(posts.length / postsPerPage)
+    Array.from({ length: numPages }).forEach((_, i) => {
+      createPage({
+        path: i === 0 ? `/stories` : `/stories/${i + 1}`,
+        component: path.resolve("./src/pages/stories/index.js"),
+        context: {
+          limit: postsPerPage,
+          skip: i * postsPerPage,
+          numPages,
+          currentPage: i + 1,
+        },
+      })
+    })
     posts.forEach((edge) => {
       const id = edge.node.id
       createPage({
@@ -70,6 +83,8 @@ exports.createPages = ({ actions, graphql }) => {
       })
     })
   })
+
+
 }
 
 exports.onCreateNode = ({ node, actions, getNode }) => {
