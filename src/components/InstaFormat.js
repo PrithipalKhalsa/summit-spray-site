@@ -54,7 +54,7 @@ class InstaFormat extends React.Component {
 
           {posts &&
             posts.map(({ node: post }) => (
-              <div className="is-parent column is-6" key={post.id}>
+              <div className="is-parent column is-6" key={`${post.id} story-mode`}>
                 <article
                   className={`blog-list-item tile is-child box notification insta-grid ${
                     post.frontmatter.featuredpost ? 'is-featured' : ''

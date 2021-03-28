@@ -5,11 +5,12 @@ import Layout from '../components/Layout'
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
 import LeftSideBar from '../components/LeftSideBar'
 
-class TagRoute extends React.Component {
+class PostsRoute extends React.Component {
   render() {
     const { data } = this.props
     const { edges: posts } = data.allMarkdownRemark
-    const { currentPage, numPages, tag } = this.props.pageContext
+    const { currentPage, numPages } = this.props.pageContext
+
     return (
       <Layout>
         <section className="section">
@@ -65,31 +66,31 @@ class TagRoute extends React.Component {
                   </div>
                 ))}
             </div>
+            <nav className="pagination is-centered" role="navigation" aria-label="pagination">
+              <ul className="pagination-list ">
+               {Array.from({ length: numPages }, (_, i) => (
+               <Link className={`pagination-link ${i+1 === currentPage ? "is-current" : ""}`} key={`pagination-number${i + 1}`} to={`/stories/${i === 0 ? "" : i + 1}`} >
+                 {i + 1}
+               </Link>
+               ))}
+               </ul>
+            </nav>
           </div>
       </div>
 
 
         </div>
       </div>
-      <nav className="pagination is-centered" role="navigation" aria-label="pagination">
-        <ul className="pagination-list ">
-         {Array.from({ length: numPages }, (_, i) => (
-         <Link className={`pagination-link ${i+1 === currentPage ? "is-current" : ""}`} key={`pagination-number${i + 1}`} to={`/${tag.toLowerCase()}/${i === 0 ? "" : i + 1}`} >
-           {i + 1}
-         </Link>
-         ))}
-         </ul>
-      </nav>
     </section>
         </Layout>
     )
   }
 }
 
-export default TagRoute
+export default PostsRoute
 
-export const tagPageQuery = graphql`
-  query TagPage($tag: String,$skip: Int!, $limit: Int!) {
+export const allPostsQuery = graphql`
+  query allPosts($skip: Int!, $limit: Int!) {
     site {
       siteMetadata {
         title
@@ -99,7 +100,7 @@ export const tagPageQuery = graphql`
       limit: $limit
       skip: $skip
       sort: { fields: [frontmatter___date], order: DESC }
-      filter: { frontmatter: { tags: { in: [$tag] } } }
+      filter: { frontmatter: { templateKey: { eq: "blog-post" } } }
     ) {
       totalCount
       edges {

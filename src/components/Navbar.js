@@ -65,16 +65,16 @@ const Navbar = class extends React.Component {
               <Link className="navbar-item" activeClassName="active-nav" to="/stories">
                 Latest Stories
               </Link>
-              <Link className="navbar-item" activeClassName="active-nav" to="/tags/news">
+              <Link className="navbar-item" activeClassName="active-nav" to="/news">
                 News
               </Link>
-              <Link className="navbar-item" activeClassName="active-nav" to="/tags/climbing">
+              <Link className="navbar-item" activeClassName="active-nav" to="/climbing">
                 Climbing
               </Link>
-              <Link className="navbar-item"  activeClassName="active-nav" to="/tags/lifestyle">
+              <Link className="navbar-item"  activeClassName="active-nav" to="/lifestyle">
                 Lifestyle
               </Link>
-              <Link className="navbar-item"  activeClassName="active-nav" to="/tags/ski">
+              <Link className="navbar-item"  activeClassName="active-nav" to="/ski">
                 Ski
               </Link>
 
