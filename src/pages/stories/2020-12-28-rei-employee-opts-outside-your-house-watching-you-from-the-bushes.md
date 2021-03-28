@@ -2,12 +2,14 @@
 templateKey: blog-post
 title: REI Employee Opts Outside Your House, Watching You From the Bushes
 date: 2020-12-28T18:03:35.490Z
-description: _____________________
+description: This holiday season we spoke with the REI employee who was lurking in our bushes about how he is #optingoutside.
 featuredpost: false
 featuredimage: /img/8b22a9ab-783e-4b73-a911-335d7cdbb10f.jpeg
 tags:
   - Lifestyle
 ---
+![](/img/8b22a9ab-783e-4b73-a911-335d7cdbb10f.jpeg)
+
 This holiday season we spoke with the REI employee who was lurking in our bushes about how he is #optingoutside. As we sat inside opening presents we noticed a try-hard outdoor enthusiast covered head to toe in gear that did not reflect his paycheck.
 
 

@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: '"What are we?" and 3 Other Bad Topics for a Hanging Belay'
 date: 2021-01-12T05:58:55.323Z
-description: Take this unique opportunity to absolutely demolish a friendship with a terrible conversation your partner cannot physically escape from. These are a few of our recent favorites when we want to burn our bridges:
+description: Take this unique opportunity to absolutely demolish a friendship with a terrible conversation your partner cannot physically escape from. These are a few of our recent favorites when we want to burn our bridges
 
 featuredpost: false
 featuredimage: /img/screen-shot-2021-01-11-at-9.59.47-pm.png

@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: "Best Neck in climbing Dave Graham vs Adam Ondra "
 date: 2020-11-19T21:01:01.095Z
-description: It’s the age old question: length vs girth. We interviewed climbing legend and thicc necked boi Dave Graham to get a professional's opinion.
+description: It’s the age old question, length vs girth. We interviewed climbing legend and thicc necked boi Dave Graham to get a professional's opinion.
 featuredpost: false
 featuredimage: /img/screen-shot-2020-11-19-at-1.15.33-pm.png
 tags:

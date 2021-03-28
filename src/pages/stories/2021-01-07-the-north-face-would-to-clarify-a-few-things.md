@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: The North Face Would Like to Clarify a Few Things
 date: 2021-01-07T02:51:29.738Z
-description: ____________________
+description: “Yeah, we didn’t mean for a coup.” Head North Face marketing strategist and totally fired mother fucker, Ashley Coldman told us when we interviewed her.
 featuredpost: false
 featuredimage: /img/tnf.jpg
 tags:
