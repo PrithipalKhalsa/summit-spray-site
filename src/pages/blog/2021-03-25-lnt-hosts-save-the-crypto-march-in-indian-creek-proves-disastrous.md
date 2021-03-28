@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: LNT's 'Save the Crypto' March Ends in Disaster
 date: 2021-03-25T03:22:31.779Z
-description: ______________________
+description: Last weekend, in Indian Creek, UT, environmental demonstrators with the best intention destroyed acres of fragile, ancient cryptobiotic Soil. 
 featuredpost: true
 featuredimage: /img/dontbustthecrust.png
 ---
