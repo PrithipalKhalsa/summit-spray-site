@@ -59,15 +59,15 @@ const Footer = class extends React.Component {
               </div>
               <div className="column is-4 social">
 
-                <a title="twitter" href="https://twitter.com">
+                <a title="facebook" href="https://www.facebook.com/Summit-Spray-News-102565161936621">
                   <img
                     className="fas fa-lg"
-                    src={twitter}
-                    alt="Twitter"
+                    src={facebook}
+                    alt="Facebook"
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
-                <a title="instagram" href="https://instagram.com">
+                <a title="instagram" href="https://www.instagram.com/summitspray/">
                   <img
                     src={instagram}
                     alt="Instagram"

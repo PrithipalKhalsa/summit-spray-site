@@ -23,11 +23,10 @@ export const BlogPostTemplate = ({
       {helmet || ''}
       <div className="container content">
         <div className="columns">
-          <div className="column is-10 is-offset-1 single-post">
-            <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
+          <div className="column is-10 is-offset-1 single-post story-body">
+            <h1 className="title is-size-2 has-text-weight-bold is-bold-light ">
               {title}
             </h1>
-            <p>{description}</p>
             <PostContent content={content} />
             {tags && tags.length ? (
               <div style={{ marginTop: `4rem` }}>
@@ -59,7 +58,7 @@ const BlogPost = ({ data }) => {
         contentComponent={HTMLContent}
         description={post.frontmatter.description}
         helmet={
-          <Helmet titleTemplate="%s | Blog">
+          <Helmet titleTemplate="%s | Summit Spray News">
             <title>{`${post.frontmatter.title}`}</title>
             <meta
               name="description"

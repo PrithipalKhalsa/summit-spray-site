@@ -30,7 +30,20 @@ exports.createPages = ({ actions, graphql }) => {
     }
 
     const posts = result.data.allMarkdownRemark.edges
-
+    const postsPerPage = 6
+    const numPages = Math.ceil(posts.length / postsPerPage)
+    Array.from({ length: numPages }).forEach((_, i) => {
+      createPage({
+        path: i === 0 ? `/stories` : `/stories/${i + 1}`,
+        component: path.resolve("./src/templates/all-posts.js"),
+        context: {
+          limit: postsPerPage,
+          skip: i * postsPerPage,
+          numPages,
+          currentPage: i + 1,
+        },
+      })
+    })
     posts.forEach((edge) => {
       const id = edge.node.id
       createPage({
@@ -47,29 +60,45 @@ exports.createPages = ({ actions, graphql }) => {
     })
 
     // Tag pages:
-    let tags = []
+    let tags = {}
     // Iterate through each post, putting all found tags into `tags`
     posts.forEach((edge) => {
       if (_.get(edge, `node.frontmatter.tags`)) {
-        tags = tags.concat(edge.node.frontmatter.tags)
+        edge.node.frontmatter.tags.forEach((tag)=>{
+          if(tags[tag]==undefined){
+            tags[tag]= 1
+          }
+          else{
+            tags[tag] = tags[tag]+1
+          }
+        })
       }
     })
     // Eliminate duplicate tags
-    tags = _.uniq(tags)
 
     // Make tag pages
-    tags.forEach((tag) => {
-      const tagPath = `/tags/${_.kebabCase(tag)}/`
+    for (const [tag, count] of Object.entries(tags))  {
+      const postsPerPage = 6
+      const numPages = Math.ceil(count / postsPerPage)
 
-      createPage({
-        path: tagPath,
-        component: path.resolve(`src/templates/tags.js`),
-        context: {
-          tag,
-        },
+      const tagPath = `/${_.kebabCase(tag)}/`
+        Array.from({ length: numPages }).forEach((_, i) => {
+          createPage({
+            path: i === 0 ? tagPath : `${tagPath}${i + 1}`,
+            component: path.resolve(`src/templates/tags.js`),
+            context: {
+              tag,
+              limit: postsPerPage,
+              skip: i * postsPerPage,
+              numPages,
+              currentPage: i + 1,
+            },
+          })
       })
-    })
+    }
   })
+
+
 }
 
 exports.onCreateNode = ({ node, actions, getNode }) => {
