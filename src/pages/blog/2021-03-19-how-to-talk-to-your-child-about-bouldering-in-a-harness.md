@@ -3,7 +3,7 @@ templateKey: blog-post
 title: How to Talk to Your Child About Bouldering in a Harness
 date: 2021-03-19T14:54:52.730Z
 description: By child, we don’t even mean your offspring, but anyone who boulders in a harness is clearly a child in the eyes of the climbing community.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/harnessclimbing.png
 tags:
   - Climbing

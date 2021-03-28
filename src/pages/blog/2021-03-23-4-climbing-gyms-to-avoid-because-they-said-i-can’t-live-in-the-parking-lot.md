@@ -2,8 +2,8 @@
 templateKey: blog-post
 title: 4 Climbing Gyms to Avoid Because They Said I Can’t Live in The Parking Lot
 date: 2021-03-23T03:05:35.743Z
-description: _____________________
-featuredpost: true
+description: I was allowed to stay for a couple days until “I was scaring away members” with my morning kegel routine.
+featuredpost: false
 featuredimage: /img/badgym2.png
 tags:
   - Climbing
