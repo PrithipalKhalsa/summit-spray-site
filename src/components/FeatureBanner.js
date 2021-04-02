@@ -14,7 +14,6 @@ class FeatureBanner extends React.Component {
           posts.map(({ node: post }) => (
             <div>{ post.frontmatter.featuredpost ?
           <div className="" key={post.id}>
-
               <article className="featured-article">
                 <header>
                   {post.frontmatter.featuredimage ? (
@@ -30,9 +29,11 @@ class FeatureBanner extends React.Component {
                       </Link>
                   ) : null}
                   <p className="post-meta">
+                  <Link to={post.fields.slug}>
                   <h1 >
                     {post.frontmatter.title}
                   </h1>
+                  </Link>
                     <span>  </span>
                     <span className="subtitle is-size-5 is-block">
                       {post.frontmatter.date}

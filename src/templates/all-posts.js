@@ -47,9 +47,12 @@ class PostsRoute extends React.Component {
                           </Link>
                         ) : null}
                         <p className="post-meta">
+                        <Link to={post.fields.slug}>
+
                         <h4 >
                           {post.frontmatter.title}
                         </h4>
+                        </Link>
                           <span>  </span>
                           <span className="subtitle is-size-6 is-block">
                             {post.frontmatter.date}
