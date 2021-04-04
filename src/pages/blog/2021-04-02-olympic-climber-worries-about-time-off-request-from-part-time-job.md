@@ -5,7 +5,7 @@ date: 2021-04-02T17:01:02.148Z
 description: Part time coach, coffee barista, and olympian Kyra Condie expressed
   concern to us that her manager may not approve her two week “vacation” to go
   compete as a US Athlete for the 2021 Summer Olympics.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/lady.png
 tags:
   - Climbing
