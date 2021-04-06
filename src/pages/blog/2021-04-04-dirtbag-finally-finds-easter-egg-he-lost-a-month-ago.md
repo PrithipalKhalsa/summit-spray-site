@@ -5,7 +5,7 @@ date: 2021-04-04T17:41:47.693Z
 description: “I didn’t really notice the smell until people started parking
   further and further away from me.” Erik Sanderson said through watering eyes
   as he displayed his prized egg to us.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/dsc_0285.jpg
 tags:
   - News
