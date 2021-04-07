@@ -2,8 +2,10 @@
 templateKey: quiz-post
 title: First Quiz
 description: "This is the first quiz I am making!!! "
+featuredimage: /img/awk-hon.jpg
+
 quizbody:
-  question:
+  questions:
     - Question: first question
       option1: answer 1
       option2: answer2

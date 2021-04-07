@@ -1,8 +1,8 @@
 import React from 'react'
-import { kebabCase } from 'lodash'
-import { Helmet } from 'react-helmet'
-import { Link, graphql } from 'gatsby'
 import Layout from '../../components/Layout'
+import { Link } from 'gatsby'
+import QuizRoll from '../../components/QuizRoll'
+import LeftSideBar from '../../components/LeftSideBar'
 
 const QuizPage = ({
   data: {
@@ -13,14 +13,31 @@ const QuizPage = ({
   },
 }) => (
   <Layout>
-  <p>Quiz!</p>
+    <section className="section">
+      <div className="container">
+      <div className="columns is-12 is-multiline is-centered">
+        <h2>Quiz</h2>
+        <div className="column is-one-quarter is-hidden-touch">
+          <LeftSideBar/>
+        </div>
+
+        <div className="column is-two-thirds  ">
+            <QuizRoll />
+        </div>
+
+
+
+    </div>
+      </div>
+
+    </section>
   </Layout>
 )
 
 export default QuizPage
 
 export const quizPageQuery = graphql`
-  query QuizPage {
+  query QuizQuery {
     site {
       siteMetadata {
         title

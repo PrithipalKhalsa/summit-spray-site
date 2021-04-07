@@ -50,7 +50,6 @@ BlogPostTemplate.propTypes = {
 
 const BlogPost = ({ data }) => {
   const { markdownRemark: post } = data
-  console.log(post.frontmatter.featuredimage.childImageSharp.fluid.src)
   return (
     <Layout>
       <BlogPostTemplate
