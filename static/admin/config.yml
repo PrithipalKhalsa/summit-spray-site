@@ -35,6 +35,7 @@ collections:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "quiz-post"}
       - {label: Title, name: title, widget: string}
       - {label: Description, name: description, widget: string}
+      - {label: "Featured Post", name: "featuredpost", widget: "boolean"}
       - {label: QuizBody, name: quizbody, widget: object, fields: [{label: Question, name: question, widget: list, fields: [{label: Question, name: Question, widget: text}, {label: Option1, name: option1, widget: text}, {label: Option2, name: option2, widget: text},{label: Option3, name: option3, widget: text},{label: Option4, name: option4, widget: text}]}]}
       - {label: AnswersBody, name: answersbody, widget: object, fields: [{label: Answers, name: answers, widget: list, fields: [{label: "Body", name: "body", widget: "markdown"}]}]}
 
