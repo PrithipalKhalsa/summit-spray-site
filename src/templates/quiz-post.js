@@ -30,14 +30,14 @@ export const QuizPostTemplate = ({
               {title}
 
             </h1>
-            {description}
+            <div className="subtitle">{description}</div>
             {console.log(answers.length)}
             {console.log(answers)}
             <div className="question-section">
             {questions &&
               questions.map((ask) => (
               <div>
-                <p>{ask.Question}</p>
+                <h5>{ask.Question}</h5>
                 <form className="box" >
                   <div className="questions">
                     <input className="field" type="radio" id="op1" name="q1" />
@@ -59,11 +59,11 @@ export const QuizPostTemplate = ({
               </div>
               ))}
             </div>
-            <div className="result-section">
+            <div className="result-section columns is-centered">
              { didSubmit ?
                <div>{answers[randomnumber].body}</div>
              :
-              <button onClick={()=>setDidSumbit(true)} >Submit</button>
+              <button class="button is-primary is-large is-outlined " onClick={()=>setDidSumbit(true)} >Submit</button>
              }
             </div>
           </div>

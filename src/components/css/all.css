@@ -8006,5 +8006,8 @@ nav.pagination {
   margin: auto;
   max-width: 500px; }
 
-.questions .field {
+.question-section .box {
+  margin: 2%; }
+
+.question-section .questions .field {
   margin-right: 10px; }
