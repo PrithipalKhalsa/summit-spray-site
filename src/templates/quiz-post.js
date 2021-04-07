@@ -10,7 +10,6 @@ export const QuizPostTemplate = ({
    content,
   contentComponent,
   description,
-  tags,
   title,
   helmet,
 
@@ -28,11 +27,6 @@ export const QuizPostTemplate = ({
               {title}
             </h1>
             <PostContent content={content} />
-            {tags && tags.length ? (
-              <div style={{ marginTop: `4rem` }}>
-
-              </div>
-            ) : null}
           </div>
         </div>
       </div>
@@ -76,8 +70,7 @@ const QuizPost = ({ data }) => {
             />
           </Helmet>
         }
-        tags={post.frontmatter.tags}
-        title={post.frontmatter.title}
+         title={post.frontmatter.title}
       />
     </Layout>
   )
@@ -96,9 +89,16 @@ export const pageQuery = graphql`
       id
       html
       frontmatter {
-
+        date(formatString: "MMMM DD, YYYY")
         title
         description
+         featuredimage {
+                  childImageSharp {
+                    fluid(maxWidth: 400, quality: 100) {
+                      ...GatsbyImageSharpFluid
+                    }
+                  }
+                }
       }
     }
   }
