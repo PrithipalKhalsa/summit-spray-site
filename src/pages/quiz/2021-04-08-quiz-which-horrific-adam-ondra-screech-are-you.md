@@ -1,6 +1,7 @@
 ---
 templateKey: quiz-post
 title: "Quiz: Which Horrific Adam Ondra Screech are you?"
+featuredimage: /img/ondra-yell.jpeg
 description: "With our sophisticated AI we can determine which guttural long
   neck sound you were always meant to be. Take our quiz to find out which unholy
   sound you embody! "
