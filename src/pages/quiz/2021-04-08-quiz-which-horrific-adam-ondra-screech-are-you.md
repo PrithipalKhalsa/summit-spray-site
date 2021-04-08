@@ -1,10 +1,10 @@
 ---
 templateKey: quiz-post
 title: "Quiz: Which Horrific Adam Ondra Screech are you?"
-featuredimage: /img/ondra-yell.jpeg
 description: "With our sophisticated AI we can determine which guttural long
   neck sound you were always meant to be. Take our quiz to find out which unholy
   sound you embody! "
+featuredimage: /img/ondra-yell.jpeg
 featuredpost: true
 quizbody:
   questions:
@@ -47,15 +47,15 @@ answersbody:
 
         <p>You are courageous but also temperamental. You will bravely try crazy new things and then take your anger out on poor Nico Favresse. You enjoy cool winter days and could never live in a place like Arizona or Florida.</p>
 
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/5kZDukn5JnE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/5kZDukn5JnE?start=243" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     - body: >-
         <h4>Adam Ondra on Silence</h4>
 
-        <p>You are very mature. You know when to hold your tongue to keep friendships alive. Your word has power since now that it’s used less often. Your yell is no longer a ‘go-to’, but rather a secret back pocket weapon.</p>
+        <p>You are very mature. You know when to hold your tongue to keep friendships alive. Your word has power since it’s used less often. Your yell is no longer a ‘go-to’, but rather a secret back pocket weapon.</p>
 
         <iframe width="560" height="315" src="https://www.youtube.com/embed/ZRTNHDd0gL8?start=800" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     - body: >
-        <h4>Adam Ondra on Gioia V17</h4>
+        <h4>Adam Ondra on Gioia V16</h4>
 
         <p>You are the nervous shy type. Although your sound is, perhaps, ear bludgeoning you only use it in front of one or two other people. When you show people your send video later, it will be on mute.</p>
 
