@@ -18,7 +18,9 @@ export const QuizPostTemplate = ({
 }) => {
   const PostContent = contentComponent || Content
   const [didSubmit, setDidSumbit] = useState(false);
-
+  function createMarkup() {
+    return {__html: answers[randomnumber].body};
+  }
 
   return (
     <section className="section">
@@ -31,27 +33,26 @@ export const QuizPostTemplate = ({
 
             </h1>
             <div className="subtitle">{description}</div>
-            {console.log(answers.length)}
-            {console.log(answers)}
+
             <div className="question-section">
             {questions &&
               questions.map((ask) => (
-              <div>
+              <div className="question">
                 <h5>{ask.Question}</h5>
                 <form className="box" >
-                  <div className="questions">
+                  <div className="options">
                     <input className="field" type="radio" id="op1" name="q1" />
                     <label >{ask.option1}</label>
                     </div>
-                    <div className="questions">
+                    <div className="options">
                     <input className="field" type="radio" id="op2" name="q1" />
                     <label >{ask.option2}</label>
                     </div>
-                    <div className="questions">
+                    <div className="options">
                     <input className="field" type="radio" id="op3" name="q1"/>
                     <label >{ask.option3}</label>
                     </div>
-                    <div className="questions">
+                    <div className="options">
                     <input className="field" type="radio" id="op4" name="q1" />
                     <label >{ask.option4}</label>
                     </div>
@@ -59,9 +60,9 @@ export const QuizPostTemplate = ({
               </div>
               ))}
             </div>
-            <div className="result-section columns is-centered">
+            <div className="result-section">
              { didSubmit ?
-               <div>{answers[randomnumber].body}</div>
+               <div dangerouslySetInnerHTML={createMarkup() } />
              :
               <button class="button is-primary is-large is-outlined " onClick={()=>setDidSumbit(true)} >Submit</button>
              }
