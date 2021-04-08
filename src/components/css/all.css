@@ -8006,8 +8006,18 @@ nav.pagination {
   margin: auto;
   max-width: 500px; }
 
+.question-section .question {
+  margin-bottom: 50px; }
+
 .question-section .box {
   margin: 2%; }
 
-.question-section .questions .field {
+.question-section .options .field {
   margin-right: 10px; }
+
+.result-section {
+  text-align: center;
+  padding: 8px;
+  background: #f0f8ff; }
+  .result-section iframe {
+    width: 100%; }
