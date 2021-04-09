@@ -46,7 +46,7 @@ We sat down with the real-life Kyra Condie to help sort our falsities in our art
 
 **Kyra**: I do have some parts made of metal if that counts as being part robot. 
 
-#### \
+
 
 Part 2: Differential Equations
 
