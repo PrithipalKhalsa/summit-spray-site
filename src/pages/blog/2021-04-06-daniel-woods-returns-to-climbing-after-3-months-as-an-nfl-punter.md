@@ -5,8 +5,10 @@ date: 2021-04-06T15:47:20.070Z
 description: Daniel Woods spent his winter proving just how incredible an
   athlete he really is. This superstar took the time to change sports entirely,
   signing onto the Las Vegas Raiders as the best punter in the city.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/punter.png
+tags:
+  - Climbing
 ---
 ![](/img/punter.png)
 
