@@ -12,13 +12,11 @@ tags:
 ---
 We sat down with the real-life Kyra Condie to help sort our falsities in our article last week. We apologize for our inaccurate information and want to make it right.
 
-
-
 **We ‘took care of’ the intern who wrote the falsities of the last article. So just to clarify, you don’t actually work at a coffee shop and will have no issue getting to Tokyo for the summer 2021 Olympics?**
 
 **Kyra**: Nope, no problems there! We have the full support from the USOPC and USAC to help us get to the Olympics as well as personal sponsorship deals. Though I do absolutely love coffee so it’s not an unusual place to find me ;). 
 
-**Where is the Olympics?**
+**Where Are the Olympics?**
 
 **Kyra**: Tokyo!
 
@@ -44,7 +42,7 @@ We sat down with the real-life Kyra Condie to help sort our falsities in our art
 
 **Kyra**:  dsjcbka 
 
-**Kyra**: I do have some parts made of metal if that counts as being art robot. 
+**Kyra**: I do have some parts made of metal if that counts as being part robot. 
 
 #### \
 
