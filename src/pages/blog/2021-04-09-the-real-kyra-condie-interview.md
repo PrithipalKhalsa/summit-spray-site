@@ -10,6 +10,8 @@ featuredimage: /img/kyrainterview.jpeg
 tags:
   - News
 ---
+![](/img/kyrainterview.jpeg)
+
 We sat down with the real-life Kyra Condie to help sort our falsities in our article last week. We apologize for our inaccurate information and want to make it right.
 
 **We ‘took care of’ the intern who wrote the falsities of the last article. So just to clarify, you don’t actually work at a coffee shop and will have no issue getting to Tokyo for the summer 2021 Olympics?**
