@@ -5,7 +5,7 @@ date: 2021-04-09T16:43:24.509Z
 description: We sat down with the real-life Kyra Condie to help sort our
   falsities in our article last week. We apologize for our inaccurate
   information and want to make it right.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/kyrainterview.jpeg
 tags:
   - News
