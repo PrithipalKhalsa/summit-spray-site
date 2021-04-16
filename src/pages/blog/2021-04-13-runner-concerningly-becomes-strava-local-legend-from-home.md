@@ -7,7 +7,7 @@ description: Local nervous wreck Doug Peters woke up early Wednesday morning
   “My therapist says that I use running as a form of self harm. Needless to say
   I am looking for a new therapist.” Doug told us, as he stomped around in his
   kitchen at a break-neck speed.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/screen-shot-2021-04-12-at-10.21.09-pm.png
 tags:
   - Lifestyle
