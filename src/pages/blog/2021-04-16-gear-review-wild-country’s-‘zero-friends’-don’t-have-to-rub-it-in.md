@@ -4,7 +4,7 @@ title: "Gear Review: Wild Country’s ‘Zero Friends’ Don’t Have to Rub It 
 date: 2021-04-16T03:55:36.215Z
 description: "Lightweight, flexible, and brutally honest, the Zero Friends from
   Wild Country are a perfect addition to your rack. "
-featuredpost: true
+featuredpost: false
 featuredimage: /img/zero-friends.jpeg
 tags:
   - Climbing
