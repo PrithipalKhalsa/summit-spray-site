@@ -4,7 +4,7 @@ title: "5 Ways to Tape Your Way Out of a Debilitating Finger Injury "
 date: 2021-04-21T14:18:25.134Z
 description: Millions of years of evolution went into creating your body and its
   self healing process. But jeez talk about slow.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/screen-shot-2021-04-21-at-8.26.15-am.png
 tags:
   - Climbing
