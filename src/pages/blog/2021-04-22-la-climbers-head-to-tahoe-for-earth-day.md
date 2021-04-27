@@ -4,7 +4,7 @@ title: LA Climbers Head to Tahoe for Earth Day Party
 date: 2021-04-22T16:35:50.995Z
 description: Self proclaimed environmental steward, Bill Jones, made the trek
   out to Lake Tahoe this weekend in celebration of mother earth and the climate.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/screen-shot-2021-04-22-at-10.40.10-am.png
 tags:
   - Climbing
