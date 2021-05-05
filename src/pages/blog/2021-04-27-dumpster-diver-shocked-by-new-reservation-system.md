@@ -6,7 +6,7 @@ description: With a “covid horizon” in sight, people are getting more indign
   about safety regulations. We spoke with Zeke, a dumpster diver, about their
   thoughts on the recent dumpster diving reservation systems required for the
   hottest of dumpsters.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/dump.jpeg
 tags:
   - News
