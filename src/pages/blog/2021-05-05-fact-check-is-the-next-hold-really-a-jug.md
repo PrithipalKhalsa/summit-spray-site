@@ -4,7 +4,7 @@ title: "Fact Check: Is the Next Hold Really a Jug?"
 date: 2021-05-05T15:04:09.066Z
 description: Are you being lied to? Is the next hold the kind of jug you can
   pour water into or nothing more than a loose potato chip glued to the rock?
-featuredpost: true
+featuredpost: false
 featuredimage: /img/hands.jpeg
 tags:
   - Climbing
