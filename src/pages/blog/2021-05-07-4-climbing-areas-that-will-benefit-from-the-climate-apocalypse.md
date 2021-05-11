@@ -4,7 +4,7 @@ title: "4 Climbing Areas that Will Benefit from the Climate Apocalypse "
 date: 2021-05-07T16:33:45.877Z
 description: The death of the planet isn't all bad! Here are our new favorite
   climbing areas!
-featuredpost: true
+featuredpost: false
 featuredimage: /img/fireshit.jpeg
 tags:
   - Climbing
