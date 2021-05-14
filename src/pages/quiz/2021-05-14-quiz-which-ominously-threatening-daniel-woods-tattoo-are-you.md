@@ -41,42 +41,37 @@ answersbody:
         The Eye
 
 
-        ![](/img/dwoods3.jpeg)
+        <p><img src="/img/dwoods3.jpeg"></p>
 
 
-        This tattoo represents that Dan Woods had an extra $400 in his bank account. This is what happens when you actually pay your athletes: they get sick tattoos. Anyway, this tarot card is the all seeing eye. Not your eye though, someone has been watching you very closely and I would maybe hire a PI and get ready to file a restraining order.
+        <p>This tattoo represents that Dan Woods had an extra $400 in his bank account. This is what happens when you actually pay your athletes: they get sick tattoos. Anyway, this tarot card is the all seeing eye. Not your eye though, someone has been watching you very closely and I would maybe hire a PI and get ready to file a restraining order.</p>
     - body: >-
         Snake
 
 
-        ![](/img/dwoods2.jpeg)
+         <p><img src="/img/dwoods.jpeg"></p> <p>
 
 
-        This tattoo represents all the first accents Dan woods has snaked from his fellow athletes. This tarot card is the serpent of the sea. You are a sea dog at heart, not because you love the sea. Instead, you constantly romanticize leaving behind your friends and family in order to pursue some fruitless adventure where you can “really do some living”.
+        This tattoo represents all the first accents Dan woods has snaked from his fellow athletes. This tarot card is the serpent of the sea. You are a sea dog at heart, not because you love the sea. Instead, you constantly romanticize leaving behind your friends and family in order to pursue some fruitless adventure where you can “really do some living”.</p>
     - body: >-
-        
-
         Lion
 
 
-        ![](/img/screen-shot-2021-05-13-at-11.11.31-pm.png)
+         <p><img src="/img/screen-shot-2021-05-13-at-11.11.31-pm.png"></p> <p>
 
 
-        This tattoo represents that one trip to South Africa Dan Woods went on that was sick AF. This tarot card is the courageous lion. You believe yourself to be courageous and that you don’t have a comfort zone. When in reality you have surrounded yourself in a culture that seems dangerous so you don’t have to be brave, ever. This is also the reason you are still single.
+        This tattoo represents that one trip to South Africa Dan Woods went on that was sick AF. This tarot card is the courageous lion. You believe yourself to be courageous and that you don’t have a comfort zone. When in reality you have surrounded yourself in a culture that seems dangerous so you don’t have to be brave, ever. This is also the reason you are still single.</p>
     - body: >-
-        Death
+        Death  <p><img src="/img/dwoods4.jpeg"></p> <p>
 
 
-        ![](/img/dwoods4.jpeg)
-
-
-        This tattoo represents the time that Dan Woods killed a man and hid his body on Pajarito Mountain just outside of Los Alamos, NM. This tarot card is the slow decay that is coming for us all one day. I hope you are ready to die, because you will die. Most people do.
+        This tattoo represents the time that Dan Woods killed a man and hid his body on Pajarito Mountain just outside of Los Alamos, NM. This tarot card is the slow decay that is coming for us all one day. I hope you are ready to die, because you will die. Most people do. </p>
     - body: >-
         Skull, Spider, and Web
 
 
-        ![](/img/dwoods-cover.jpeg)
+         <p><img src="/img/dwoods-cover.jpeg"></p> <p>
 
 
-        These tattoos represent Dan Woods tremendous fear of his own skin. He wanted to cover up as much as possible with these two tattoos. This tarot card is the spider of the dead. Unlike normal spiders this one is not living. Just like you. You haven’t felt alive for a long time, not since you found a 7th chicken nugget in your 6 piece chicken nugget order. Everyday is the same day, and one of them will be your last.
+        These tattoos represent Dan Woods tremendous fear of his own skin. He wanted to cover up as much as possible with these two tattoos. This tarot card is the spider of the dead. Unlike normal spiders this one is not living. Just like you. You haven’t felt alive for a long time, not since you found a 7th chicken nugget in your 6 piece chicken nugget order. Everyday is the same day, and one of them will be your last. </p>
 ---
