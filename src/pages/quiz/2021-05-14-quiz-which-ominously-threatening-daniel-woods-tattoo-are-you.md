@@ -49,7 +49,7 @@ answersbody:
         Snake
 
 
-         <p><img src="/img/dwoods.jpeg"></p> <p>
+         <p><img src="/img/dwoods2.jpeg"></p> <p>
 
 
         This tattoo represents all the first accents Dan woods has snaked from his fellow athletes. This tarot card is the serpent of the sea. You are a sea dog at heart, not because you love the sea. Instead, you constantly romanticize leaving behind your friends and family in order to pursue some fruitless adventure where you can “really do some living”.</p>
