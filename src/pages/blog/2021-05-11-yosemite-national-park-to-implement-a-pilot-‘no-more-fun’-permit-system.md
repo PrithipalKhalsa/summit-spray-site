@@ -4,7 +4,7 @@ title: "Yosemite National Park to Implement a Pilot ‘No More Fun’ Permit Sys
 date: 2021-05-11T03:46:55.974Z
 description: Yosemite National Park announced on Friday that it would begin
   strictly regulating the jolly merrymaking that was taking place in the valley.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/nofun.jpeg
 tags:
   - News
