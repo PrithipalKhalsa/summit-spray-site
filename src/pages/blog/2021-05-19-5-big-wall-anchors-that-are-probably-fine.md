@@ -13,8 +13,6 @@ We have all been there: you arrive at an anchor near the end of the pitch. “Su
 
 Here are our top picks for big wall anchors that are most likely fine:
 
-
-
 "People heavier than me have used them, why would they fail now?"
 
 ![](/img/2pins.jpeg)
@@ -22,6 +20,8 @@ Here are our top picks for big wall anchors that are most likely fine:
 "It’s just rusting on the outside, the actual bolt part thing is definitely fine I bet."
 
 ![](/img/pinscover.jpeg)
+
+(Pic from [Kevin DeWeese's Blog fear](http://www.failfalling.com/ClimbingBlog/fear/)) 
 
 “Well, there are so many pieces that *something* will hold.”
 
