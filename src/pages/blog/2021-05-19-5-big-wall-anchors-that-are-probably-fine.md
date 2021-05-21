@@ -4,7 +4,7 @@ title: 5 Big Wall Anchors That are Probably Fine
 date: 2021-05-19T04:21:53.747Z
 description: |
   Here are our top picks for big wall anchors that are most likely fine. 
-featuredpost: true
+featuredpost: false
 featuredimage: /img/pinscover.jpeg
 tags:
   - Climbing
