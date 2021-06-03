@@ -5,7 +5,7 @@ date: 2021-05-21T05:25:12.609Z
 description: "“I’ve always thought of myself as an environmental role model.”
   Peter Daniels is a 23 year old eco pioneer from Albuquerque, New Mexico. He
   hasn’t bathed since his womb days and has no plans to shower anytime soon. "
-featuredpost: true
+featuredpost: false
 featuredimage: /img/dirt.jpeg
 tags:
   - Climbing
