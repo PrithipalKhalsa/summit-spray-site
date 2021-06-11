@@ -5,7 +5,7 @@ date: 2021-06-03T05:13:27.906Z
 description: We sat down with self proclaimed ‘liar liar pants on fire’ Scott
   Buttons on his secret to success. “Well it took a lot of vision to make this
   grade possible for me.”
-featuredpost: true
+featuredpost: false
 featuredimage: /img/fullsizerender.jpeg
 tags:
   - Climbing
