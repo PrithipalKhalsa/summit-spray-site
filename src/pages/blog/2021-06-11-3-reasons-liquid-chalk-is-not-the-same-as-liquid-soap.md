@@ -5,7 +5,7 @@ date: 2021-06-11T16:06:31.376Z
 description: A drying rack full of chalked dishes was the first indication that
   a mistake had been made. After Friction Labs made ridiculously audacious
   claims about their liquid chalk killing everything it touches
-featuredpost: true
+featuredpost: false
 featuredimage: /img/img_6411.jpeg
 ---
 ![](/img/img_6411.jpeg)
