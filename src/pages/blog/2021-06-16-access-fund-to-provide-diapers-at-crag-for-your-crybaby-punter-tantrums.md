@@ -6,7 +6,7 @@ description: “We started noticing that some of these front range sport climber
   are taking their punter tantrums a little too far.” Boulder County access fund
   coordinator Amanda Dribble has been working hard to mitigate the massive harm
   done by these outbursts.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/wobblerbox.jpeg
 tags:
   - Climbing
