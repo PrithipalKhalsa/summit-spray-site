@@ -5,7 +5,7 @@ date: 2021-06-22T14:58:44.819Z
 description: Jimmy ‘it’s not that weird’ Douglass showed up to the crag again
   conveniently forgetting his climbing harness and wearing a suspicious amount
   of leather.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/screen-shot-2021-06-22-at-9.00.53-am.png
 tags:
   - Climbing
