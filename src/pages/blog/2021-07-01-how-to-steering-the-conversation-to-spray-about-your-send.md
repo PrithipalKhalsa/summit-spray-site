@@ -7,7 +7,7 @@ description: "Picture this: you just sent your first 5.12 over the weekend but
   ever get to mention your greatness? Are you worried the conversation might not
   turn your way? Checkout these tips to help you spray about every nook and
   cranny of your significant ascent."
-featuredpost: true
+featuredpost: false
 featuredimage: /img/pexels-allan-mas-5383538.jpg
 tags:
   - Climbing
