@@ -8,7 +8,7 @@ description: Local nesting closures have been one way outdoor enthusiasts stay
   nesting, which has been a struggle as old as time. Hopefully with these new
   restrictions, we’ll see closures decrease due to peregrines not being able to
   nest. Big win for climbing and for NPS.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/screen-shot-2021-07-07-at-8.30.30-pm.png
 ---
 ![](/img/screen-shot-2021-07-07-at-8.30.30-pm.png)
