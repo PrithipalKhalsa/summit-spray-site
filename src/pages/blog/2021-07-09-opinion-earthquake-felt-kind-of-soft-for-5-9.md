@@ -5,7 +5,7 @@ date: 2021-07-09T15:11:21.659Z
 description: Tahoe was hit by a 5.9 earthquake on July 8th, 2021. Climbers
   immediately flocked to social media to comment that their wall of pristine
   cams hadn't fallen off the pegs where they’ve been racked for 3 years now
-featuredpost: true
+featuredpost: false
 featuredimage: /img/softearthquake.jpg
 tags:
   - Climbing
