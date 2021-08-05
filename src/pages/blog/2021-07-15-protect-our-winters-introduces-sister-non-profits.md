@@ -5,7 +5,7 @@ date: 2021-07-15T02:14:54.565Z
 description: As winter becomes another victim of climate change, Protect Our
   Winters or POW has branched out to a slightly more sustainable business model
   of ‘saving the oceans’ and ‘protecting the environment’.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/screen-shot-2021-07-14-at-8.14.36-pm.png
 tags:
   - News
