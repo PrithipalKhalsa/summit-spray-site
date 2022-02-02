@@ -7,7 +7,7 @@ description: During our exclusive summit spray olympic viewing party, we
   scoring worked for “Sport Climbing.” During the interview, our mathematician
   told us “I have absolutely no idea what’s going on here, what is a zone hold?
   Why were they racing before? Where are the handjams?”
-featuredpost: true
+featuredpost: false
 featuredimage: /img/screen-shot-2021-08-05-at-10.09.01-am.png
 tags:
   - News
