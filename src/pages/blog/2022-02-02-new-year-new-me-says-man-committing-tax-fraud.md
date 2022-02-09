@@ -6,7 +6,7 @@ description: “I’ve made mistakes I’m not proud of, but this year I’m tur
   new leaf and will make mistakes I AM proud of. For example, accidentally
   filing my “thirty year old daughter” as a dependent and also maybe some weird
   looking w2s.”
-featuredpost: true
+featuredpost: false
 featuredimage: /img/pexels-italo-melo-2379004-2.jpg
 tags:
   - News
