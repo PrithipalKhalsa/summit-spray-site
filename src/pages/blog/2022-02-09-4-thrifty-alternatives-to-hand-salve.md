@@ -7,7 +7,7 @@ description: "Need to find another use for your forgotten condiment? When mayo
   eucalyptus, manzanita, and sycamore. Simply apply liberally over your desired
   areas right before bed. In the morning, wash off the salve and re-apply
   throughout the day."
-featuredpost: true
+featuredpost: false
 featuredimage: /img/hand-salve.png
 tags:
   - Climbing
