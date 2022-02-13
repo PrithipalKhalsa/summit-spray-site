@@ -34,6 +34,22 @@ $black: #4a4a4a;
       padding: 8px;
       position: relative;
 
+      &--active {
+        &::after {
+          content: '';
+          background-color: $black;
+          height: 3px;
+          bottom: 18px;
+          position: absolute;
+          opacity: 1;
+          transition: all .3s ease-out;
+          width: 86%;
+        }
+        &::before {
+          display: none;
+        }
+      }
+
       &:hover {
         &::before {
           opacity: 1;
@@ -49,8 +65,7 @@ $black: #4a4a4a;
         position: absolute;
         opacity: 0;
         transition: all .3s ease-out;
-        width: 80%;
-        // backface-visibility: hidden;
+        width: 86%;
       }
     }
   }

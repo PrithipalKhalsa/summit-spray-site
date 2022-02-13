@@ -3,6 +3,7 @@ module.exports = {
     title: 'Summit Spray',
     description:
       'Adventure News for Your Soul',
+      siteURL: 'https://www.summitspraynews.com/',
   },
   plugins: [
     'gatsby-plugin-react-helmet',

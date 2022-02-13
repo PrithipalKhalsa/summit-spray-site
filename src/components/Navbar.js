@@ -1,14 +1,15 @@
-import React, { useState, useEffect } from 'react'
+import React from 'react'
 import { Link } from 'gatsby'
 import logo from '../img/logo-wide.svg'
-// import logoBig from '../img/logo-wide.svg'
 import classNames from 'classnames';
 import './styles/navbar.scss';
+import { useLocation } from '@reach/router';
+import { NavLinks } from '../data/nav-links';
 
-const Navbar = (props) => {
-
-  // const [active, setActive] = useState(false);
-  // const [navBarActiveClass, setClass] = useState('');
+const Navbar = () => {
+  const location = useLocation();
+  const { pathname } = location;
+  // console.log('TOP?', window.scrollY === 0);
 
   return (
     <nav className="ssp-default-header">
@@ -17,27 +18,19 @@ const Navbar = (props) => {
           <img src={logo}/>
         </div>
         <div className="ssp-default-header__links">
-          <Link className="ssp-default-header__links__item" activeClassName="active-nav" to="/stories">
-            Latest Stories
-          </Link>
-          <Link className="ssp-default-header__links__item" activeClassName="active-nav" to="/news">
-            News
-          </Link>
-          <Link className="ssp-default-header__links__item" activeClassName="active-nav" to="/climbing">
-            Climbing
-          </Link>
-          <Link className="ssp-default-header__links__item"  activeClassName="active-nav" to="/lifestyle">
-            Lifestyle
-          </Link>
-          <Link className="ssp-default-header__links__item"  activeClassName="active-nav" to="/ski">
-            Ski
-          </Link>
-          <Link className="ssp-default-header__links__item" activeClassName="active-nav" to="/about">
-            About
-          </Link>
-          <Link className="ssp-default-header__links__item" activeClassName="active-nav" to="/contact">
-            Contact
-          </Link>
+          {
+            NavLinks.map((link) => {
+              const { url, title } = link;
+              const navLinkClasses = classNames("ssp-default-header__links__item", {
+                "ssp-default-header__links__item--active": pathname === url,
+              });
+              return (
+                <Link className={navLinkClasses} to={url}>
+                  {title}
+                </Link>
+              )
+            })
+          }
         </div>
       </div>
     </nav>
