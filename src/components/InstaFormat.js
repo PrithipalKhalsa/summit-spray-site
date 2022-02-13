@@ -31,7 +31,7 @@ class InstaFormat extends React.Component {
                       />
                     </div>
                   ) : null}
-                   <div class="overlay"><img src={logoBig} /></div>
+                  <div class="overlay"><img src={logoBig} /></div>
                   <p className="post-meta" >
                     <h1 >
                       {post.frontmatter.title}
