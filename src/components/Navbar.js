@@ -19,7 +19,6 @@ const Navbar = () => {
     } else {
       setHeader(false);
     };
-    console.log(currPos.y);
   }, [whichHeader], null, false, 500);
   const stickyHeaderClass = classNames("ssp-default-header", {
     "ssp-default-header--hidden": !whichHeader,
