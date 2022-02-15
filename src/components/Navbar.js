@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react'
-import { Link } from 'gatsby'
-import logo from '../img/logo-wide.svg'
+import { Link } from 'gatsby';
+import logo from '../img/logo-wide.svg';
 import bigLogo from '../img/big-logo.svg';
 import classNames from 'classnames';
 import './styles/navbar.scss';
@@ -14,23 +14,29 @@ const Navbar = () => {
   const [whichHeader, setHeader] = useState(false);
 
   useScrollPosition(({currPos}) => {
-    if (currPos.y < -405) {
+    if (currPos.y !== 0) {
       setHeader(true);
     } else {
       setHeader(false);
     };
   }, [whichHeader], null, false, 500);
-  const stickyHeaderClass = classNames("ssp-default-header", {
-    "ssp-default-header--hidden": !whichHeader,
+
+  const linksClass = classNames("ssp-default-header__links", {
+    "ssp-default-header__links--large": !whichHeader,
+  });
+
+  const whichLogo = !whichHeader ? bigLogo : logo;
+  const headerInner = classNames("ssp-default-header__inner", {
+    "ssp-default-header__inner--large": !whichHeader,
   });
   console.log('which header', whichHeader);
   return (
-    <nav className={stickyHeaderClass}>
-      <div className="ssp-default-header__inner">
+    <nav className="ssp-default-header">
+      <div className={headerInner}>
         <div className="ssp-default-header__logo">
-          <img src={logo}/>
+          <img src={whichLogo}/>
         </div>
-        <div className="ssp-default-header__links">
+        <div className={linksClass}>
           {
             NavLinks.map((link) => {
               const { url, title } = link;
