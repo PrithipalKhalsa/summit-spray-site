@@ -8,7 +8,7 @@ description: “Just when I thought my life couldn’t get any worse!” Henry S
   afford a colored camera. On Sunday, he uploaded a new profile picture to
   instagram, on Monday, he had ten thousand followers and a North Face
   Sponsorship.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/henryspoons.jpeg
 ---
 ![](/img/henryspoons.jpeg)
