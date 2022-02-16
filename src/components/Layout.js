@@ -6,6 +6,7 @@ import NavbarStatic from '../components/NavbarStatic'
 import '../components/css/all.css';
 import useSiteMetadata from './SiteMetadata'
 import { withPrefix } from 'gatsby'
+import './styles/navbar.scss';
 
 const TemplateWrapper = ({ children }) => {
   const { title, description } = useSiteMetadata();
@@ -52,7 +53,7 @@ const TemplateWrapper = ({ children }) => {
       </Helmet>
       <Navbar/>
       {/* <NavbarStatic/> */}
-      <div>{children}</div>
+      <div className="mid-content">{children}</div>
       <Footer />
     </div>
   )

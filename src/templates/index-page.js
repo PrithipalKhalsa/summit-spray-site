@@ -19,36 +19,26 @@ export const IndexPageTemplate = ({
 }) => (
   <div>
 
-    <section className="section section--gradient">
+    <section className="section">
       <div className="container">
-        <div className="section">
-          <div className="columns">
-            <div className="column is-18 ">
-              <div className="content">
-                <div className="content">
-
-                </div>
-                <div className="columns is-12 is-multiline is-centered">
-
-                  <div className="column is-one-quarter is-hidden-touch">
-                    <LeftSideBar/>
-                  </div>
-
-                  <div className="column is-two-thirds  ">
-                    <FeatureBanner/>
-                      <BlogRoll />
-                  </div>
-
-
-
-              </div>
-              <div className="column is-12 has-text-centered">
-                <Link className="btn" to="/stories/2">
-                  More Articles
-                </Link>
-              </div>
-              </div>
+        <div className="columns">
+          <div className="content">
+            <div className="content">
             </div>
+            <div className="columns is-12 is-multiline is-centered">
+              <div className="column is-one-quarter is-hidden-touch">
+                <LeftSideBar/>
+              </div>
+              <div className="column is-two-thirds  ">
+                <FeatureBanner/>
+                  <BlogRoll />
+              </div>
+          </div>
+          <div className="column is-12 has-text-centered">
+            <Link className="btn" to="/stories/2">
+              More Articles
+            </Link>
+          </div>
           </div>
         </div>
       </div>

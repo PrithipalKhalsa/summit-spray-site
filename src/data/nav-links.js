@@ -1,5 +1,9 @@
 export const NavLinks = [
   {
+    url: '/',
+    title: 'Home',
+  },
+  {
     url: '/stories',
     title: 'Stories',
   },
