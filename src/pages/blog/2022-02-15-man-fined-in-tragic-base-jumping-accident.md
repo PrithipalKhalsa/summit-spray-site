@@ -6,7 +6,7 @@ description: Yosemite officials say 39-year-old Henry Hoots was fined in a BASE
   jumping accident after doing a sick flip off El Cap. BASE jumping stands for
   Bone, Arm, Spine and Eye, and participants of the extreme sport launch their
   descent from tall objects using wingsuits or parachutes.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/manfined.png
 tags:
   - News
