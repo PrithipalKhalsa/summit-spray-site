@@ -10,6 +10,7 @@ import { NavSocial } from '../data/nav-social';
 import { useScrollPosition } from '@n8tb1t/use-scroll-position';
 
 const Navbar = () => {
+  console.log('Nav Social', NavSocial);
   const location = useLocation();
   const { pathname } = location;
   const [whichHeader, setHeader] = useState(false);
@@ -40,12 +41,15 @@ const Navbar = () => {
     "ssp-default-header__home-links--large": !whichHeader,
   });
 
+  const socialClass = classNames("ssp-default-header__social", {
+    "ssp-default-header__social--large": !whichHeader
+  });
+
   const whichLogo = !whichHeader ? bigLogo : logo;
   const headerInner = classNames("ssp-default-header__inner", {
     "ssp-default-header__inner--large": !whichHeader,
     "ssp-default-header__inner--mobile": showMobile,
   });
-  console.log('which header', whichHeader);
   return (
     <nav className="ssp-default-header">
       <div className={headerInner}>
@@ -71,6 +75,26 @@ const Navbar = () => {
                   <Link className={navLinkClasses} to={url}>
                     {title}
                   </Link>
+                )
+              })
+            }
+          </div>
+          <div className={socialClass}>
+            {
+              NavSocial.map((social) => {
+                const { url, title, image } = social;
+                return (
+                  <a 
+                    className="ssp-default-header__social__item"
+                    title={title}
+                    href={url}
+                    target="_blank"
+                    >
+                    <img
+                    src={image}
+                    alt={title}
+                    />
+                  </a>
                 )
               })
             }

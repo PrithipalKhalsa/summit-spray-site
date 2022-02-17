@@ -5,7 +5,7 @@ export const NavLinks = [
   },
   {
     url: '/stories',
-    title: 'Stories',
+    title: 'Latest Stories',
   },
   {
     url: '/news',
