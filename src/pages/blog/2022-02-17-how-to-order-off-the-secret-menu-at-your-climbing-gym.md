@@ -8,7 +8,7 @@ description: Tired of climbing at Planet Granite with all of the normies? Want
   secret menu is simple, just commit all of your free time to the climbing gym,
   and strike up a conversation with the front desk staff, who are required to
   stay at the front desk.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/front-desk.png
 tags:
   - Climbing
