@@ -7,7 +7,7 @@ description: Abby Volm is currently thru-hiking in South America on the Greater
   ‘found’. “It’s so amazing down here, the people, the environment, and just the
   trail in general.” Abby told us as her hiker stenched leaked through the
   phone. “The only bummer is I never got the time off approved at work.”
-featuredpost: true
+featuredpost: false
 featuredimage: /img/hiker.jpeg
 tags:
   - News
