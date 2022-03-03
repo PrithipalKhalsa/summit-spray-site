@@ -9,7 +9,7 @@ description: YOSEMITE VALLEY -- “We had solid plans for a 4 am alpine start.�
   that time’, the next thing I knew we were doing body shots off Cindy’s six
   pack. At some point in the night, as I was running from a ranger, my 4:15
   alarm went off.”
-featuredpost: true
+featuredpost: false
 featuredimage: /img/campfire.jpeg
 tags:
   - Climbing
