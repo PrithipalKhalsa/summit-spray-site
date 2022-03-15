@@ -6,7 +6,7 @@ description: REI SoHo voted 86% yes for unionization last night, making it the
   first unionized store. In light of these recent events, the corporation is
   doubling down on its union-busting efforts by removing ‘Co-op’ from the
   store’s name.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/rei-no-coop.jpeg
 tags:
   - News
