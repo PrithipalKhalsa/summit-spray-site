@@ -8,7 +8,7 @@ description: >+
   outspoken about the ‘Death of the Dirtbag’. A lifestyle that he calls “totally
   rad man”.
 
-featuredpost: true
+featuredpost: false
 featuredimage: /img/cedar-in-room.jpeg
 tags:
   - Climbing
